@@ -30,6 +30,7 @@ Please do not share private information with us when interacting with this repos
 * [Golden Boy](#golden-boy)
 * [Kellen Battles](#kellen-battles)
 * [Lauren Elizabeth Brown](#lauren-elizabeth-brown)
+* [Muff Rebuffer](#muff-rebuffer)
 * [Nima Cheraghi](#nima-cheraghi)
 * [Prez Cannady](#prez-cannady)
 * [Radfem Hitler](#radfem-hitler)
@@ -214,6 +215,32 @@ Please do not share private information with us when interacting with this repos
 |1326436991278444545|L 🤺, ShaladyYaLadyLMAO|
 |1257601209591980033|L|
 |444301028|Greg, Greg Floyd, L, L 👁️, L 🤺, LB, Lauren, Thomas|
+
+
+## Muff Rebuffer
+
+* Active as: [RebuffTheMuff](https://twitter.com/RebuffTheMuff) ([1440731448885989377](https://twitter.com/intent/user?user_id=1440731448885989377))
+* Suspended as: [VaginaDeclina](https://twitter.com/VaginaDeclina) (1337136973560078337)
+
+### Context
+
+* [Twitter thread by MockWooloo](https://twitter.com/MockWooloo/status/1442073523472715776)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1440731448885989377|RebuffTheMuff|2021-09-23|2021-09-23|1|
+|1337136973560078337|VaginaDeclina|2021-06-20|2021-07-29|2|
+|1337136973560078337|gay_novulvaspls|2021-04-30|2021-05-19|8|
+|1337136973560078337|TheHungryHirudo|2020-12-16|2020-12-16|1|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1440731448885989377|Gay Mossad-Loving Muff Rebuffer|
+|1337136973560078337|Gay Mossad-Loving Vagina-Decliner, The Plural of Platypus, The Terven Translator|
 
 
 ## Nima Cheraghi
