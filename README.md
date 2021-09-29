@@ -17,9 +17,11 @@ all data has been sourced from the [Wayback Machine][wbm], not the Twitter API o
 ### Action items
 
 * Read the information below and consider reporting these accounts to [Twitter Safety](https://twitter.com/TwitterSafety).
-* Suggest additional cases or accounts by [opening an issue][opening-issues] or [pull request][opening-prs].
+* Suggest additional cases or accounts by [opening an issue][opening-issues].
 
-Please do not share private information with us when interacting with this repository.
+Please do not share private information with us when interacting with this repository. Also note that most of this document
+is generated automatically using ✨[cancel-culture](https://github.com/travisbrown/cancel-culture)✨ and related software, so
+opening an issue to suggest new material for inclusion is better than opening a PR to modify the file directly.
 
 
 ## Table of contents
