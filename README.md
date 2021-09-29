@@ -27,6 +27,7 @@ Please do not share private information with us when interacting with this repos
 * [André van Delft️](#andré-van-delft)
 * [Bronze Age Pervert](#bronze-age-pervert)
 * [Caroline Foster](#caroline-foster)
+* [Cathy Brennan](#cathy-brennan)
 * [Golden Boy](#golden-boy)
 * [Kellen Battles](#kellen-battles)
 * [Lauren Elizabeth Brown](#lauren-elizabeth-brown)
@@ -115,6 +116,36 @@ Please do not share private information with us when interacting with this repos
 |1284917494671716352|Darth Carolina|
 |2349753061|SCAREoline👻, americaro 🇺🇸, bo turner🧜🏻‍♀️, carol webkinz, ᦓꫀꪀꪖꪻꪮ᥅ ꪖꪑ꠸ᦔꪖꪶꪖ, ℭ𝔥𝔯𝔦𝔰𝔱𝔪𝔞𝔰 ℭ𝔞𝔯𝔬𝔩🧜🏻‍♀️, 匚卂尺ㄖ, 匚卂尺ㄖ🐶🐱, 匚卂尺ㄖ💘, 匚卂尺ㄖ🦈, 匚卂尺ㄖ🦾, 匚卂尺ㄖ🧜🏻‍♀️, ꪑꫀ᥅ꪑꪖ꠸ᦔ, 𝐿𝒶 𝒮𝒾𝓇𝑒𝓃𝒾𝓉𝒶🧜🏻‍♀️, 𝒜𝓇𝒾𝑒𝓁🧜🏻‍♀️, 𝒫𝓇𝒾𝓃𝒸𝑒𝓈𝓈 𝒞𝒶𝓇𝑜 🧜🏻‍♀️, 𝒶𝓃𝒶𝓀𝒾𝓃’𝓈 𝓌𝒾𝒻𝑒, 𝒸𝑜𝓋𝒾𝒹 𝒸𝒶𝓇𝑜, 𝓁𝒶 𝓈𝒾𝓇𝑒𝓃𝒾𝓉𝒶, 𝓅𝒽𝒾𝓁𝑜𝒸𝓉𝑒𝓉𝑒𝓈, 𝔇𝔞𝔯𝔱𝔥 𝔓𝔩𝔞𝔤𝔲𝔢𝔦𝔰 𝔱𝔥𝔢 𝔚𝔦𝔰𝔢, 𝔡𝔞𝔯𝔱𝔥 𝔠𝔞𝔯𝔬, 𝔱𝔥𝔢 𝔏𝔬𝔯𝔡’𝔰 𝔠𝔥𝔦𝔭𝔰, 𝕔𝕠𝕣𝕒𝕝 𝕣𝕖𝕖𝕗 🧜🏻‍♀️, 𝕔𝕠𝕣𝕒𝕝 𝕣𝕖𝕖𝕗🧜🏻‍♀️, 𝕔𝕠𝕣𝕒𝕝 🧜🏻‍♀️, 𝕙𝕖𝕣𝕔 𝕪𝕠𝕦 𝕝𝕖𝕖𝕤, 𝕤𝕒𝕧𝕠𝕣𝕪 𝕔𝕒𝕣𝕠𝕝𝕚𝕟𝕖, 𝕯𝖆𝖗𝖙𝖍 𝕮𝖆𝖗𝖔, 𝖘𝖎𝖙𝖍 𝖑𝖔𝖗𝖉, 𝚌𝚊𝚛𝚘 𝚋𝚊𝚜𝚔𝚒𝚗 🐆, 𝚖𝚒𝚜𝚜 𝚜𝚔𝚢𝚠𝚊𝚕𝚔𝚎𝚛, 🧜🏻‍♀️|
 |1025580350|Caroline Smith, caroline, caroline smith, caroline🇨🇦, caroline🦈, follow @disneycaroline|
+
+
+## Cathy Brennan
+
+* Active as: [mrskbrennanesq](https://twitter.com/mrskbrennanesq) ([815555060394553344](https://twitter.com/intent/user?user_id=815555060394553344))
+* Suspended as: [FinTechEsq](https://twitter.com/FinTechEsq) (4858023813), [GIdentityWatch](https://twitter.com/GIdentityWatch) (2161524618)
+
+### Context
+
+* [RationalWiki article](https://rationalwiki.org/wiki/Cathy_Brennan)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|815555060394553344|cathriebesq|2020-07-27|2021-01-21|12|
+|815555060394553344|ReplacementKate|2020-07-06|2020-09-19|8|
+|815555060394553344|c____brennan|2020-08-24|2020-08-24|1|
+|815555060394553344|JaneODoe5|2020-06-21|2020-06-21|9|
+|4858023813|FinTechEsq|2017-10-28|2019-10-11|29|
+|2161524618|BadhbhCatha|2015-01-03|2016-09-30|46|
+|2161524618|GIdentityWatch|2016-07-06|2016-07-06|1|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|815555060394553344|Cathy Brennan, Jane O'Doe, Replacement Kate, cathrie b., cathrie b. esq., esq., insert projection here|
+|4858023813|Catherine M. Brennan, Cathy Brennan|
+|2161524618|Badhbh Catha, Cathy Brennan, Gender Identity Watch|
 
 
 ## Golden Boy
