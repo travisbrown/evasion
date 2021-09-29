@@ -74,7 +74,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 * [Wikipedia entry](https://en.wikipedia.org/wiki/Bronze_Age_Pervert)
 * [Twitter thread by Luke Turner](https://twitter.com/Luke_Turner/status/1303321339525320708)
-* [Telegram screenshot](https://twitter.com/GregoryDavisHNH/status/1423761529044967424)
+* [Telegram screenshot](https://twitter.com/GregoryDavisHNH/status/1423556962546065409)
 
 ### All suspected accounts
 
