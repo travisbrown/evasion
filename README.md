@@ -33,6 +33,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Golden Boy](#golden-boy)
 * [Kellen Battles](#kellen-battles)
 * [Lauren Elizabeth Brown](#lauren-elizabeth-brown)
+* [Michael Anissimov](#michael-anissimov)
 * [Muff Rebuffer](#muff-rebuffer)
 * [Nima Cheraghi](#nima-cheraghi)
 * [Prez Cannady](#prez-cannady)
@@ -248,6 +249,32 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |1326436991278444545|L 🤺, ShaladyYaLadyLMAO|
 |1257601209591980033|L|
 |444301028|Greg, Greg Floyd, L, L 👁️, L 🤺, LB, Lauren, Thomas|
+
+
+## Michael Anissimov
+
+* Active as: [NRxPenguin](https://twitter.com/NRxPenguin) ([908567118664237057](https://twitter.com/intent/user?user_id=908567118664237057))
+* Suspended as: [Burzenland](https://twitter.com/Burzenland) (422641831), [MikeAnissimov](https://twitter.com/MikeAnissimov) (26871837)
+
+### Context
+
+* [RationalWiki article on the Neoreactionary movement](https://rationalwiki.org/wiki/Neoreactionary_movement)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|908567118664237057|NRxPenguin|2017-10-22|2021-09-24|17251|
+|422641831|Burzenland|2016-03-08|2017-05-10|72|
+|26871837|MikeAnissimov|2013-05-15|2015-09-14|1260|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|908567118664237057|Michael Anissimov, Michael Anissimov 🐧, Noblesse Michael Anissimov 🐧, Your Noblesse Michael Anissimov 🐧, 🐧 Your Noblesse M. Anissimov 🐧, 🐧 Your Noblesse Michael Anissimov 🐧|
+|422641831|Anissimov, Michael Anissimov, michael, миша Анисимов, 👻 Mike Anissimov 👻|
+|26871837|Goy Squad™, Michael, Michael Anissimov, Zenit, 商人の除去, 殺殺殺殺殺殺殺|
 
 
 ## Muff Rebuffer
