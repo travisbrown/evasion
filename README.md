@@ -31,6 +31,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Caroline Foster](#caroline-foster)
 * [Cathy Brennan](#cathy-brennan)
 * [Golden Boy](#golden-boy)
+* [Haley Adams](#haley-adams)
 * [Kellen Battles](#kellen-battles)
 * [Lauren Elizabeth Brown](#lauren-elizabeth-brown)
 * [Michael Anissimov](#michael-anissimov)
@@ -189,6 +190,43 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |1170566206287437825|Golden Boy 🏝|
 |1110291259539648514|G****** B** 🏝, G*****n B*y 🏝, G*ld*n B*y 🏝, Golden Boy 🇦🇶, Golden Boy 🇦🇶🏝, Golden Boy 🏝, Golden Boy 🏝🇦🇶|
 |849825430727041024|Golden Boy, Golden Boy 🏝, Golden Boy🌊, Golden Boy🏝, Joey America, 🇺🇸Golden🍔Boy 🇺🇸|
+
+
+## Haley Adams
+
+* Active as: [Baseddrugdealer](https://twitter.com/Baseddrugdealer) ([1397726836033941504](https://twitter.com/intent/user?user_id=1397726836033941504)), [Hot_MessPdx](https://twitter.com/Hot_MessPdx) ([1137922989083594752](https://twitter.com/intent/user?user_id=1137922989083594752))
+* Suspended as: [VivaLaHaley3](https://twitter.com/VivaLaHaley3) (1281090666483683328), [pdxadamsfam](https://twitter.com/pdxadamsfam) (1190548685148454913), [teBernieSanders](https://twitter.com/teBernieSanders) (1139967210959466496), [RealHaleyAdams](https://twitter.com/RealHaleyAdams) (785340397660753920)
+
+### Context
+
+* [Twitter thread by RoseCityAntifa](https://twitter.com/rosecityantifa/status/1294722373510246400)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1397726836033941504|Baseddrugdealer|2021-07-04|2021-09-21|404|
+|1397726836033941504|BasedNewsNtwrk|2021-08-07|2021-09-06|167|
+|1397726836033941504|BasedNewsNtwork|2021-08-11|2021-08-18|7|
+|1397726836033941504|UncensoredHaley|2021-07-02|2021-07-09|6|
+|1281090666483683328|VivaLaHaley3|2020-07-09|2021-05-23|261|
+|1190548685148454913|pdxadamsfam|2019-11-06|2019-11-07|3|
+|1139967210959466496|teBernieSanders|2019-10-04|2019-10-14|3|
+|1139967210959466496|RealHaleyAdams1|2019-07-26|2019-09-16|6|
+|1137922989083594752|Hot_MessPdx|2019-11-10|2020-07-01|64|
+|785340397660753920|RealHaleyAdams|2018-09-25|2019-03-30|6|
+|785340397660753920|Divas4Trump|2017-06-04|2018-07-28|34|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1397726836033941504|Aug 💀22nd 💀 Portland ☮️🕊️, Hal3y AdAWs, PnwDramaChannel 🧢 #TWC, STOP CHRISTIAN HATE, The Weird Conservative, The Weird Conservative 🧢, The Weird Conservative 🧢 #TWC, Tw!tter Support 🧢, Uncensored Haley Adams 🇺🇸, Viva La Drug Dealer, Viva La Fck Biden, Viva La Furiosa 💥💀🖤, Viva La Hails, Viva La Haley, Viva La Haley Lewis, Vote Joe Kent For Congress WA 🇺🇲💥💕, We 💀 The 💀 People, ❤️ Haley 🧘🏼‍♀️ Adams ❤️, 💀 Jane 💀 Doe 💀|
+|1281090666483683328|Viva 🐸 La 🐸 Haley 🐸, Viva 🐸 La 🐸 Holdtheline 🐸, Viva 💀 La 🔥 Haley 👩‍🦳, Viva 💀 La 🔥 Haley 👩‍🦳👾, Viva 💀 La 🔥 Judge 👩‍🦳, Viva🍇La💜Haley🐸, Viva🔥La🔥Buffy🧛🏻‍♀️, Viva🔥La🔥Haley, Viva🔥La🔥Haley🔥, Vïvä🍇Lä💜GräpeGäng🍇, 🍇Vïvä 🇮🇹 Lä 🇩🇪 Judge 👩‍⚖️🇺🇸, 🍇Vïvä 🇮🇹 Lä 🇩🇪 Stfu 🇺🇸|
+|1190548685148454913|👿 MeowPDXMedia 😈 610|
+|1139967210959466496|Haley Adams For Portland Mayor, Haley Adams Portlands Liberation/MAYOR2020, Luis Marquez Be Snitch’N, 👻 W!tch of the PNW 👻, 🔥 Haley Adams 🔥|
+|1137922989083594752|Millennials 4 Trump Viva La Haley, Pdx Spilt the Tea 🍵, Viva La Haley, 🔥 Viva La Haley 🔥|
+|785340397660753920|#HimTooMovement, Divas4Trump 🇺🇸, FreeTommyRobinson🇬🇧, Haley Adams, MakeBlondesGreatAgain🇺🇸, Portland For Freedom|
 
 
 ## Kellen Battles
