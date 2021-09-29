@@ -37,7 +37,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Nima Cheraghi](#nima-cheraghi)
 * [Prez Cannady](#prez-cannady)
 * [Radfem Hitler](#radfem-hitler)
-
+* [Zach Martin](#zach-martin)
 
 # Accounts
 
@@ -358,6 +358,41 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |1424522590811529218|#1 WOMEN RESPECTER OSWALD MOSLEY (WASP PILLED), #1 WOMEN RESPECTER OSWALD MOSLEY🦎👁‍🗨🪐🌘◼️, RADFEM HITLER (FREE ELIZABETH HOLMES)🦎👁‍🗨🪐🌘◼️, RADFEM HITLER (twink respecter)🦎👁‍🗨🪐🌘◼️, RADFEM HITLER BOT🦎👁‍🗨🪐🌘◼️, RADFEM HITLER REBORN🦎👁‍🗨🪐🌘◼️, RADFEM HITLER 🦎👁‍🗨🪐🌘◼️, RADFEM HITLER🦎👁‍🗨🪐🌘◼️, RADFEM MOSLEY 🦎👁‍🗨🪐🌘◼️|
 |1171642051567476736|RADFEM HITLER 🦎👁‍🗨🪐🌘◼️, dagny redbad, dagny redbad 🦎👁‍🗨🪐🌓◼️, dagny redbad 🦎👁‍🗨🪐🌘◼️, dagny redbad 🧝🏻‍♀️🦎👁‍🗨🪐|
 |837838898571128832|Holly 👑|
+
+
+## Zach Martin
+
+* Active as: [lamhomosexual](https://twitter.com/lamhomosexual) ([1245591829690478593](https://twitter.com/intent/user?user_id=1245591829690478593))
+* Suspended as: [acalltoarm](https://twitter.com/acalltoarm) (1199749637256531968), [WeeklyHoss](https://twitter.com/WeeklyHoss) (814167999288471552), [BigHossACS](https://twitter.com/BigHossACS) (1081159706)
+
+### Context
+
+* [Expose Deznat article](https://exposedeznat.noblogs.org/zach-martin-arizona-deznat-racist-homophobe-mormon/)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1245591829690478593|iamhomosexuaI|2020-05-05|2021-08-08|162|
+|1245591829690478593|UtahValleyDaddy|2020-04-30|2021-07-22|559|
+|1245591829690478593|NiasDiad|2020-04-03|2021-06-08|9509|
+|1245591829690478593|ElMioCid3|2020-04-03|2020-04-10|48|
+|1199749637256531968|acalltoarm|2019-11-29|2020-02-06|1114|
+|1199749637256531968|DezNatBYU|2019-11-27|2019-11-29|9|
+|814167999288471552|WeeklyHoss|2019-08-07|2019-09-25|568|
+|814167999288471552|HossWell47|2019-05-23|2019-08-18|27|
+|814167999288471552|DHossChrist|2019-05-04|2019-05-23|10|
+|1081159706|BigHossACS|2018-02-28|2019-05-02|26|
+|1081159706|AntiCommieSoc|2018-03-11|2019-03-02|65|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1245591829690478593|Baby Hoss, Dennis Benson, Dennis P, Dennis Potter, Dennis Prager, Denny Potter, H O S S, H O S S 5G Corona, H O S S DezNat News Man, H O S S with a purpose, Hoss Snake Guy, O.J. Simpson, Punished Hoss, Utah Valley Daddy, White Hoss Prophecy, o7, 卄ㄖ丂丂|
+|1199749637256531968|#DezNat @ BYU, H O S S, H O S S, PhD, How Our Swords Save, How Our Swords will Save us|
+|814167999288471552|D. Hoss Christofferson, Hoss Well, Hoss Well 🇺🇸💪, Hoss 🐝, Reborn Hoss 🐝💪, Undead Hoss 🐝🧟‍♂️|
+|1081159706|AntiCommunistSociety, Big Hoss ⚔️💪🐝, Big Hoss 🚫☭🚫|
 
 
 [opening-issues]: https://github.com/travisbrown/evasion/issues
