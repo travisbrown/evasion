@@ -26,6 +26,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 ## Table of contents
 
+* [Alex Atty](#alex-atty)
 * [André van Delft️](#andré-van-delft)
 * [Bronze Age Pervert](#bronze-age-pervert)
 * [Caroline Foster](#caroline-foster)
@@ -43,6 +44,34 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Zach Martin](#zach-martin)
 
 # Accounts
+
+## Alex Atty
+
+* Active as: [a1Xnotafed](https://twitter.com/a1Xnotafed) ([1347765318509187075](https://twitter.com/intent/user?user_id=1347765318509187075))
+* Suspended as: [alex_atty6](https://twitter.com/alex_atty6) (1170799132807589889)
+
+### Context
+
+* [Tweet linking accounts](http://archive.today/2021.09.30-131107/https://twitter.com/a1Xnotafed/status/1358134359652409344)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1347765318509187075|a1Xnotafed|2021-01-09|2021-09-28|8847|
+|1170799132807589889|alex_atty6|2019-09-08|2021-02-03|28235|
+|1114776769985277952|alex_atty06|2019-04-08|2019-09-06|169|
+|771089695279243264|alex_atty6|2018-07-09|2019-04-04|121|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1347765318509187075|#23honey girl🌞, DragonWarrior🐼🌙, DragonWarrior🐼🌙☔️, Hiding From Feds, crazy love hawk, dontbegay 🌙☔️, dontbegay 🐼🌙☔️, flex offender ⚡️, gamer rights activst, honey girl🌞, honey girl🌞🪨, hoss honey girl🌞|
+|1170799132807589889|A L E X, A L E X A N D R I A, A L E X A N D R I A🙅🏻‍♀️, Alex has HOPE💛, Alex the ~zesty~ true homie, Aʅҽxαɳԃɾια🙅🏻‍♀️, BOOg BABE👻🌙, Hi, I’m the Wicked Weiner, Hi, I’m the Wicked Wiener, Shane Is Always Right (lost a bet), Taco Bell Hype House Prez👑, The Dragon Warrior🐲🙅🏻‍♀️, Wicked Hallow-Wiener🌙🎃, Wicked Weiner is Watching GenCon, Wicked Wiener is ~a bada$$~, Wicked Wiener thinks Shane is wrong, Wicked Wiener🌙🔮, cult leader not a fed🌙, gulag rave dj🌙, im the spicy white wicked wiener, president-elect cult leader not a fed🌙, space ranger 🌙, space ranger🌙, underwater cowboy🌙, wicked wiener🌙, wife up the Wicked Wiener, ❄️Winter Wiener❄️, ❄️Winter Wiener❄️ is an invincible summer|
+|1114776769985277952|Alex W. Weiner, Alex the ~zesty~ true homie, Wicked Weiner Resurrected as a Righteous Weiner, Wicked Weiner is ~a daughter of God~, Wicked Weiner is ~rebranded~, Wicked Wiener is ~a cowboy named Bucky~, Wicked Wiener is ~a daughter of God~, Wicked Wiener the ~zesty~ true homie|
+|771089695279243264|Aelyxx the Christmas Lion🦁🎄, Aelyxx the Lion🦁, Alex Atkinson, BadBitchBestie™️, EmotionalGangsta™️, EmotionalQwein™️, RadBishBestie™️, WickedWeiner is ~SAD~, WickedWeiner is ~doing better~, WickedWeiner is ~happy~, WickedWeiner is ~was doing better~, WickedWeiner™️|
+
 
 ## André van Delft️
 
