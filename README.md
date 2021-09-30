@@ -302,7 +302,8 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|908567118664237057|NRxPenguin|2017-10-22|2021-09-24|17251|
+|908567118664237057|NRxPenguin|2017-10-22|2021-09-24|17253|
+|3585410540|MaoyuuZeta|2015-09-16|2016-01-04|75|
 |422641831|Burzenland|2016-03-08|2017-05-10|72|
 |26871837|MikeAnissimov|2013-05-15|2015-09-14|1260|
 
@@ -311,6 +312,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |Twitter ID|Display names|
 |----------|-----------|
 |908567118664237057|Michael Anissimov, Michael Anissimov 🐧, Noblesse Michael Anissimov 🐧, Your Noblesse Michael Anissimov 🐧, 🐧 Your Noblesse M. Anissimov 🐧, 🐧 Your Noblesse Michael Anissimov 🐧|
+|3585410540|Darkova, Michael Anissimov, michael, mike|
 |422641831|Anissimov, Michael Anissimov, michael, миша Анисимов, 👻 Mike Anissimov 👻|
 |26871837|Goy Squad™, Michael, Michael Anissimov, Zenit, 商人の除去, 殺殺殺殺殺殺殺|
 
