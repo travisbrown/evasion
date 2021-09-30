@@ -39,6 +39,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Nima Cheraghi](#nima-cheraghi)
 * [Prez Cannady](#prez-cannady)
 * [Radfem Hitler](#radfem-hitler)
+* [Vincent James](#vincent-james)
 * [Zach Martin](#zach-martin)
 
 # Accounts
@@ -425,6 +426,62 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |1424522590811529218|#1 WOMEN RESPECTER OSWALD MOSLEY (WASP PILLED), #1 WOMEN RESPECTER OSWALD MOSLEY🦎👁‍🗨🪐🌘◼️, RADFEM HITLER (FREE ELIZABETH HOLMES)🦎👁‍🗨🪐🌘◼️, RADFEM HITLER (twink respecter)🦎👁‍🗨🪐🌘◼️, RADFEM HITLER BOT🦎👁‍🗨🪐🌘◼️, RADFEM HITLER REBORN🦎👁‍🗨🪐🌘◼️, RADFEM HITLER 🦎👁‍🗨🪐🌘◼️, RADFEM HITLER🦎👁‍🗨🪐🌘◼️, RADFEM MOSLEY 🦎👁‍🗨🪐🌘◼️|
 |1171642051567476736|RADFEM HITLER 🦎👁‍🗨🪐🌘◼️, dagny redbad, dagny redbad 🦎👁‍🗨🪐🌓◼️, dagny redbad 🦎👁‍🗨🪐🌘◼️, dagny redbad 🧝🏻‍♀️🦎👁‍🗨🪐|
 |837838898571128832|Holly 👑|
+
+
+## Vincent James
+
+* Active as: [Real_VinceJames](https://twitter.com/Real_VinceJames) ([1405205968267333638](https://twitter.com/intent/user?user_id=1405205968267333638))
+* Suspended as: [ElefentJames](https://twitter.com/ElefentJames) (1304530918716190721), [RealVinceJames](https://twitter.com/RealVinceJames) (986373612956336129)
+
+### Context
+
+* [Tweet by Alex Kaplan](https://twitter.com/AlKapDC/status/1408245291577454595)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1405205968267333638|RealMr_Veracity|2021-09-25|2021-09-27|2|
+|1405205968267333638|RealVinJames|2021-09-15|2021-09-24|34|
+|1405205968267333638|Mr_Veracity_|2021-09-03|2021-09-15|37|
+|1405205968267333638|MisterVeracity|2021-08-25|2021-09-04|78|
+|1405205968267333638|MrVeracity_|2021-08-17|2021-08-24|63|
+|1405205968267333638|JamesElefent|2021-07-17|2021-08-17|39|
+|1405205968267333638|elefent_james|2021-07-06|2021-08-12|209|
+|1405205968267333638|MrElefent|2021-07-20|2021-07-31|53|
+|1405205968267333638|mr_elefent|2021-06-23|2021-07-06|39|
+|1405205968267333638|ElefentMr|2021-06-20|2021-07-01|82|
+|1405205968267333638|ElefentMan|2021-06-16|2021-06-20|24|
+|1304530918716190721|ElefentJames|2021-03-07|2021-06-16|74|
+|1304530918716190721|MrElefent|2021-05-23|2021-05-25|25|
+|1304530918716190721|the_elefent|2021-04-29|2021-05-23|136|
+|1304530918716190721|TheElefentGamer|2021-04-21|2021-04-28|62|
+|1304530918716190721|GamerElefent|2021-01-08|2021-04-20|350|
+|1304530918716190721|ElefentGamer|2021-03-24|2021-03-31|38|
+|1304530918716190721|DatElefent|2021-01-05|2021-02-27|107|
+|1304530918716190721|Elefentis|2021-01-24|2021-02-08|67|
+|1304530918716190721|ElElephantes|2021-01-07|2021-01-22|42|
+|1304530918716190721|YoDatElefent|2021-01-08|2021-01-13|34|
+|1304530918716190721|MrElefantes|2020-12-19|2021-01-08|65|
+|1304530918716190721|YoDatSmellefant|2020-12-24|2020-12-24|1|
+|1304530918716190721|YoDatElefant|2020-11-06|2020-12-23|220|
+|1304530918716190721|MrRedElephant|2020-12-19|2020-12-19|1|
+|1304530918716190721|DataElefantFan|2020-11-13|2020-11-15|9|
+|1304530918716190721|DatElefan|2020-11-06|2020-11-10|21|
+|1304530918716190721|YoElefant|2020-11-06|2020-11-07|7|
+|1304530918716190721|DeeElefans|2020-10-28|2020-11-04|17|
+|1304530918716190721|ManofElefants|2020-10-14|2020-10-23|14|
+|1304530918716190721|DeeElefantMan|2020-10-01|2020-10-13|23|
+|1304530918716190721|GodofElephant|2020-09-15|2020-10-01|26|
+|986373612956336129|RealVinceJames|2018-04-19|2018-10-29|275|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1405205968267333638|Mr James, Mr Vincent James, Vince James|
+|1304530918716190721|Da Elefante’, Data Respecter, Elefant Man, Elefant Respecter, Elephant Respecter, HeyThatElephant, Mister James, Mr Elefantes, Mr James, Mr Vincent James, Mr. James, PunishedElefant, Red, V. James, Yo Dat Elefent, Yo dat elefant, Yo dat smellefant, YoooDatElefent|
+|986373612956336129|Vincent James|
 
 
 ## Zach Martin
