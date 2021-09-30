@@ -34,6 +34,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Golden Boy](#golden-boy)
 * [Haley Adams](#haley-adams)
 * [Kellen Battles](#kellen-battles)
+* [Kevin Dolan](#kevin-dolan)
 * [Lauren Elizabeth Brown](#lauren-elizabeth-brown)
 * [Michael Anissimov](#michael-anissimov)
 * [Muff Rebuffer](#muff-rebuffer)
@@ -281,6 +282,31 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |----------|-----------|
 |1435645561265434631|Deus FleX, Deus Flex - www.flexyoursuccess.com, Deus Flex Machina, Deus Flex Machina - flexyoursucces.com, Deus Flex Machina - flexyoursuccess.com|
 |211025537|@Malcolm Fle✘ is on GAB., ACB F͓̽l͓̽e͓̽X, ANTIFAU Supersoldier: Malcolm Fle⚔️, ANTIFAUCIST Supersoldier: Malcolm Fle⚔️, AntiFaucist Leader Malcolm Fle⚔️, Antifastani Security Warlord - Malcolm FleX, Ballot Harvester M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e̽X, BlackTaro Kujo - Stand: WorldStar Platinum, BroTaro Kujo, Dept of Public Health-Select: Malcolm Flex, Director of Public Health-Select: Malcolm FleX, Dr. Fle✘ Anti-PhD. Pulmonology & Biomechanics, Flexamillion PegaCIS, GloTaro Kujo - Stand: WorldStar Platinum, Gulag Fitness & Training Advisor: Malcolm FleX, Gulag Inmate Health & Wellbeing Czar: Malcolm FleX, Hostile Power M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Hostile RU Czar M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Lord FLEXanor, Lord FLEXanor (& Antonio Brown Stan Acct), Lord FLEXanor The Lifting Sin of Pride, Lord FLEXcanor, Lord Flexcanor The Lifting Sin of Pride, Lord Flexcanor: The Lifting Sin of Pride, M*lc*lm Fl*✘, Magnificent Bastard, Magnificent OUT ✌️🏾, Magnificent 🅱astard, Malcolm FleX, Malcolm FleX - Stand Name: 「CNN Distancing」, Malcolm FleX - Stand Name: 「COVIDIOT Specialist」, Malcolm FleX - Stand Name: 「Chinese Virus」, Malcolm FleX - Stand Name: 「Down With The Sicknes」, Malcolm FleX - Stand Name: 「Get Behind Me Wu Mao」, Malcolm FleX - Stand Name: 「Get Behind Me WuMao」, Malcolm FleX - Stand Name: 「Incel Wartime Officer」, Malcolm FleX - Stand Name: 「Kung Flu Fighting」, Malcolm FleX - Stand Name: 「Lol WHO?」, Malcolm FleX - Stand Name: 「Massie Dindu Nuffin」, Malcolm FleX - Stand Name: 「Say No To Econobros」, Malcolm FleX - Stand Name: 「Slush Fund Specialist」, Malcolm FleX - Stand Name: 「Social Distance」, Malcolm FleX - Stand Name: 「Social Distancing」, Malcolm FleX - Stand Name: 「This is the Breakdown」, Malcolm FleX - Stand Name: 「Thought Contagion」, Malcolm FleX - Stand Name: 「Trumpbucks Wen?」, Malcolm FleX - Stand Name: 「Wartime Malco」, Malcolm FleX - Stand Name: 「Where my Trump Bucks?」, Malcolm FleX - Stand Name: 『Flynn Dindu Nuffin』, Malcolm FleX - Stand Name: 『Got a model for that?』, Malcolm FleX - Stand Name: 『Kim Jong Yo Stan Acct』, Malcolm FleX 🇺🇲, Malcolm FleX 🟧, Malcolm FleXeon 🇺🇲, Malcolm FleX🇺🇸, Malcolm Fle⚔️, Malcolm Fle⚔️ PhD, Ballot Testing Specialist, Malcolm Fle⚔️ PhD, Critical FleX Theorist, Malcolm Fle⚔️ PhD, Critical FleX Theory, Malcolm Fle✘, Malcolm Fle✘ is on GAB. Same name., Malcolm Fle✘mas🎄🎁🎅🏿📿, Merry Fle✘mas To All🎄🎅🏿👑❄️, Multicultural Neanderthal Scribe Malcolm Fle✘, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e̽X, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X (Notable Excep), M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X (Unrattleable), M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 💪🏾🎃🤳🏾, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 🛡️👨🏿‍🔬📿, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 🛡️🧬📿, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽Xes Under God, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽🗙, Natural Gas Science Consultant M. Flex, Postmaster Gen: M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Postmaster M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X Gen., Professor Fle✘ of the N—Men 🧬, Social Distancing Malcolm, The Dark Lord of The Cis, Thorkell The Swole, Truinanaashibata F͓̽l͓̽e͓̽X, Warlord Battlemaster Supreme- Malcolm FleX, ¡Despacito! F͓̽l͓̽e͓̽X, 𝕸𝖆𝖑𝖈𝖔𝖑𝖒 𝕱𝖑𝖊𝖃 📵|
+
+
+## Kevin Dolan
+
+* Active as: [extradeadjcb](https://twitter.com/extradeadjcb) ([1025410166483832833](https://twitter.com/intent/user?user_id=1025410166483832833))
+* Suspended as: [jcbonthedl](https://twitter.com/jcbonthedl) (1025615726294384640)
+
+### Context
+
+* [Expose Deznat article](https://exposedeznat.noblogs.org/kevin-michael-dolan-exposed-racist-antisemitic-homophobic-deznat-mormon/)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1025615726294384640|jcbonthedl|2018-08-09|2020-12-04|13999|
+|1025615726294384640|KMDontheUH|2018-09-27|2019-08-01|18|
+|1025410166483832833|extradeadjcb|2020-08-26|2021-09-28|4838|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1025615726294384640|Bennett's Demilich, Kevin, Kevin Dolan|
+|1025410166483832833|Bennett's Phylactery, 🅱️ennett's Phylactery|
 
 
 ## Lauren Elizabeth Brown
