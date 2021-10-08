@@ -35,7 +35,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Haley Adams](#haley-adams)
 * [Kellen Battles](#kellen-battles)
 * [Kevin Dolan](#kevin-dolan)
-* [Lauren Elizabeth Brown](#lauren-elizabeth-brown)
+* [~~Lauren Elizabeth Brown~~](#lauren-elizabeth-brown)
 * [Michael Anissimov](#michael-anissimov)
 * [Muff Rebuffer](#muff-rebuffer)
 * [Nima Cheraghi](#nima-cheraghi)
@@ -311,8 +311,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 ## Lauren Elizabeth Brown
 
-* Active as: [ISpyABitchLol](https://twitter.com/ISpyABitchLol) ([1438915352415686665](https://twitter.com/intent/user?user_id=1438915352415686665))
-* Suspended as: [LHatesYouALot](https://twitter.com/LHatesYouALot) (1384284222521630721), [LiveFromLauren](https://twitter.com/LiveFromLauren) (1344674818751229953), [SomeBitchIKnow2](https://twitter.com/SomeBitchIKnow2) (1335016762207821824), [SomeBitchIKnew](https://twitter.com/SomeBitchIKnew) (1326436991278444545), [SomeSneakyB](https://twitter.com/SomeSneakyB) (1257601209591980033), [SomeBitchIKnow](https://twitter.com/SomeBitchIKnow) (444301028)
+* Suspended as: [ISpyABitchLol](https://twitter.com/ISpyABitchLol) (1438915352415686665), [LHatesYouALot](https://twitter.com/LHatesYouALot) (1384284222521630721), [LiveFromLauren](https://twitter.com/LiveFromLauren) (1344674818751229953), [SomeBitchIKnow2](https://twitter.com/SomeBitchIKnow2) (1335016762207821824), [SomeBitchIKnew](https://twitter.com/SomeBitchIKnew) (1326436991278444545), [SomeSneakyB](https://twitter.com/SomeSneakyB) (1257601209591980033), [SomeBitchIKnow](https://twitter.com/SomeBitchIKnow) (444301028)
 
 ### Context
 
@@ -322,15 +321,15 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1438915352415686665|ISpyABitchLol|2021-09-18|2021-09-28|213|
-|1384284222521630721|LHatesYouALot|2021-04-20|2021-08-18|4735|
-|1344674818751229953|LiveFromLauren|2021-01-01|2021-01-04|460|
-|1344674818751229953|SadieSaysWhatUp|2020-12-31|2021-01-01|19|
-|1335016762207821824|SomeBitchIKnow2|2020-12-05|2020-12-13|270|
-|1326436991278444545|SomeBitchIKnew|2020-11-22|2020-12-04|277|
-|1326436991278444545|ShaladyYa|2020-11-18|2020-11-25|104|
-|1257601209591980033|SomeSneakyB|2020-09-13|2020-10-12|17|
-|444301028|SomeBitchIKnow|2018-10-05|2020-11-10|6551|
+|1438915352415686665|ISpyABitchLol|2021-09-18|2021-10-05|309|
+|1384284222521630721|LHatesYouALot|2021-04-20|2021-08-18|5817|
+|1344674818751229953|LiveFromLauren|2021-01-01|2021-01-04|472|
+|1344674818751229953|SadieSaysWhatUp|2020-12-31|2021-01-01|36|
+|1335016762207821824|SomeBitchIKnow2|2020-12-05|2020-12-13|1608|
+|1326436991278444545|SomeBitchIKnew|2020-11-18|2020-12-04|2372|
+|1326436991278444545|ShaladyYa|2020-11-18|2020-11-25|137|
+|1257601209591980033|SomeSneakyB|2020-07-16|2020-10-18|175|
+|444301028|SomeBitchIKnow|2018-10-05|2020-11-10|7727|
 
 ### Account display names
 
@@ -493,35 +492,35 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Tweet by Alex Kaplan](https://twitter.com/AlKapDC/status/1408245291577454595)
 
 ### All suspected accounts
-
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1405205968267333638|RealMr_Veracity|2021-09-25|2021-09-27|2|
-|1405205968267333638|RealVinJames|2021-09-15|2021-09-24|34|
-|1405205968267333638|Mr_Veracity_|2021-09-03|2021-09-15|37|
-|1405205968267333638|MisterVeracity|2021-08-25|2021-09-04|78|
-|1405205968267333638|MrVeracity_|2021-08-17|2021-08-24|63|
-|1405205968267333638|JamesElefent|2021-07-17|2021-08-17|39|
+|1405205968267333638|Real_VinceJames|2021-09-27|2021-10-01|14|
+|1405205968267333638|RealMr_Veracity|2021-09-24|2021-09-27|7|
+|1405205968267333638|RealVinJames|2021-09-15|2021-09-24|44|
+|1405205968267333638|Mr_Veracity_|2021-09-03|2021-09-15|43|
+|1405205968267333638|MisterVeracity|2021-08-25|2021-09-04|81|
+|1405205968267333638|MrVeracity_|2021-08-17|2021-08-24|65|
+|1405205968267333638|JamesElefent|2021-07-16|2021-08-17|41|
 |1405205968267333638|elefent_james|2021-07-06|2021-08-12|209|
-|1405205968267333638|MrElefent|2021-07-20|2021-07-31|53|
-|1405205968267333638|mr_elefent|2021-06-23|2021-07-06|39|
-|1405205968267333638|ElefentMr|2021-06-20|2021-07-01|82|
+|1405205968267333638|MrElefent|2021-07-20|2021-07-31|54|
+|1405205968267333638|mr_elefent|2021-06-23|2021-07-06|40|
+|1405205968267333638|ElefentMr|2021-06-20|2021-07-01|130|
 |1405205968267333638|ElefentMan|2021-06-16|2021-06-20|24|
-|1304530918716190721|ElefentJames|2021-03-07|2021-06-16|74|
+|1304530918716190721|ElefentJames|2021-03-07|2021-06-16|78|
 |1304530918716190721|MrElefent|2021-05-23|2021-05-25|25|
-|1304530918716190721|the_elefent|2021-04-29|2021-05-23|136|
-|1304530918716190721|TheElefentGamer|2021-04-21|2021-04-28|62|
-|1304530918716190721|GamerElefent|2021-01-08|2021-04-20|350|
+|1304530918716190721|the_elefent|2021-04-29|2021-05-23|138|
+|1304530918716190721|TheElefentGamer|2021-04-21|2021-04-28|63|
+|1304530918716190721|GamerElefent|2021-01-08|2021-04-20|354|
 |1304530918716190721|ElefentGamer|2021-03-24|2021-03-31|38|
 |1304530918716190721|DatElefent|2021-01-05|2021-02-27|107|
-|1304530918716190721|Elefentis|2021-01-24|2021-02-08|67|
+|1304530918716190721|Elefentis|2021-01-24|2021-02-08|68|
 |1304530918716190721|ElElephantes|2021-01-07|2021-01-22|42|
-|1304530918716190721|YoDatElefent|2021-01-08|2021-01-13|34|
+|1304530918716190721|YoDatElefent|2021-01-08|2021-01-13|36|
 |1304530918716190721|MrElefantes|2020-12-19|2021-01-08|65|
 |1304530918716190721|YoDatSmellefant|2020-12-24|2020-12-24|1|
-|1304530918716190721|YoDatElefant|2020-11-06|2020-12-23|220|
+|1304530918716190721|YoDatElefant|2020-11-06|2020-12-23|225|
 |1304530918716190721|MrRedElephant|2020-12-19|2020-12-19|1|
-|1304530918716190721|DataElefantFan|2020-11-13|2020-11-15|9|
+|1304530918716190721|DataElefantFan|2020-11-10|2020-11-15|10|
 |1304530918716190721|DatElefan|2020-11-06|2020-11-10|21|
 |1304530918716190721|YoElefant|2020-11-06|2020-11-07|7|
 |1304530918716190721|DeeElefans|2020-10-28|2020-11-04|17|
@@ -535,7 +534,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |Twitter ID|Display names|
 |----------|-----------|
 |1405205968267333638|Mr James, Mr Vincent James, Vince James|
-|1304530918716190721|Da Elefante’, Data Respecter, Elefant Man, Elefant Respecter, Elephant Respecter, HeyThatElephant, Mister James, Mr Elefantes, Mr James, Mr Vincent James, Mr. James, PunishedElefant, Red, V. James, Yo Dat Elefent, Yo dat elefant, Yo dat smellefant, YoooDatElefent|
+|1304530918716190721|Da Elefante’, Data Respecter, Elefant Man, Elefant Respectet, Mister James, Mr Elefantes, Mr James, Mr Vincent James, Mr. James, PunishedEl Yo dat elefant, Yo dat smellefant, YoooDatElefent|
 |986373612956336129|Vincent James|
 
 
