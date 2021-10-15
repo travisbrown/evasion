@@ -35,7 +35,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Haley Adams](#haley-adams)
 * [Kellen Battles](#kellen-battles)
 * [Kevin Dolan](#kevin-dolan)
-* [~~Lauren Elizabeth Brown~~](#lauren-elizabeth-brown)
+* [Lauren Elizabeth Brown](#lauren-elizabeth-brown)
 * [Michael Anissimov](#michael-anissimov)
 * [Muff Rebuffer](#muff-rebuffer)
 * [Nima Cheraghi](#nima-cheraghi)
@@ -311,7 +311,8 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 ## Lauren Elizabeth Brown
 
-* Suspended as: [ISpyABitchLol](https://twitter.com/ISpyABitchLol) (1438915352415686665), [LHatesYouALot](https://twitter.com/LHatesYouALot) (1384284222521630721), [LiveFromLauren](https://twitter.com/LiveFromLauren) (1344674818751229953), [SomeBitchIKnow2](https://twitter.com/SomeBitchIKnow2) (1335016762207821824), [SomeBitchIKnew](https://twitter.com/SomeBitchIKnew) (1326436991278444545), [SomeSneakyB](https://twitter.com/SomeSneakyB) (1257601209591980033), [SomeBitchIKnow](https://twitter.com/SomeBitchIKnow) (444301028)
+* Active as: [iHonk4Morons](https://twitter.com/iHonk4Morons) ([1448777171493924865](https://twitter.com/intent/user?user_id=1448777171493924865))
+* Suspended as: [LMAOComeAtMeBro](https://twitter.com/LMAOComeAtMeBro) (1445530195734122503), [YoYoBitchHeyHo](https://twitter.com/YoYoBitchHeyHo) (1436435237702148124), [ISpyABitchLol](https://twitter.com/ISpyABitchLol) (1438915352415686665), [LHatesYouALot](https://twitter.com/LHatesYouALot) (1384284222521630721), [LiveFromLauren](https://twitter.com/LiveFromLauren) (1344674818751229953), [SomeBitchIKnow2](https://twitter.com/SomeBitchIKnow2) (1335016762207821824), [SomeBitchIKnew](https://twitter.com/SomeBitchIKnew) (1326436991278444545), [SomeSneakyB](https://twitter.com/SomeSneakyB) (1257601209591980033), [SomeBitchIKnow](https://twitter.com/SomeBitchIKnow) (444301028)
 
 ### Context
 
@@ -321,21 +322,27 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1438915352415686665|ISpyABitchLol|2021-09-18|2021-10-05|309|
-|1384284222521630721|LHatesYouALot|2021-04-20|2021-08-18|5817|
+|1448777171493924865|iHonk4Morons|2021-10-15|2021-10-15|0|
+|1445530195734122503|LMAOComeAtMeBro|2021-10-06|2021-10-08|2|
+|1438915352415686665|ISpyABitchLol|2021-09-18|2021-10-05|568|
+|1436435237702148124|YoYoBitchHeyHo|2021-09-10|2021-09-13|33|
+|1384284222521630721|LHatesYouALot|2021-04-20|2021-08-18|5823|
 |1344674818751229953|LiveFromLauren|2021-01-01|2021-01-04|472|
 |1344674818751229953|SadieSaysWhatUp|2020-12-31|2021-01-01|36|
 |1335016762207821824|SomeBitchIKnow2|2020-12-05|2020-12-13|1608|
 |1326436991278444545|SomeBitchIKnew|2020-11-18|2020-12-04|2372|
-|1326436991278444545|ShaladyYa|2020-11-18|2020-11-25|137|
+|1326436991278444545|ShaladyYa|2020-11-18|2020-11-25|177|
 |1257601209591980033|SomeSneakyB|2020-07-16|2020-10-18|175|
-|444301028|SomeBitchIKnow|2018-10-05|2020-11-10|7727|
+|444301028|SomeBitchIKnow|2018-10-05|2020-11-10|7918|
 
 ### Account display names
 
 |Twitter ID|Display names|
 |----------|-----------|
+|1448777171493924865|L 🏴|
+|1445530195734122503|L 🏴|
 |1438915352415686665|L|
+|1436435237702148124|L|
 |1384284222521630721|L, L 🤺, L 🤺🏴|
 |1344674818751229953|Sadie, 🤺|
 |1335016762207821824|L 🤺|
