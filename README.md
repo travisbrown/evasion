@@ -35,7 +35,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Haley Adams](#haley-adams)
 * [Kellen Battles](#kellen-battles)
 * [Kevin Dolan](#kevin-dolan)
-* [Lauren Elizabeth Brown](#lauren-elizabeth-brown)
+* [~~Lauren Elizabeth Brown~~](#lauren-elizabeth-brown)
 * [Michael Anissimov](#michael-anissimov)
 * [Muff Rebuffer](#muff-rebuffer)
 * [Nima Cheraghi](#nima-cheraghi)
@@ -59,8 +59,8 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1347765318509187075|a1Xnotafed|2021-01-09|2021-09-28|8847|
-|1170799132807589889|alex_atty6|2019-09-08|2021-02-03|28235|
+|1347765318509187075|a1Xnotafed|2021-01-09|2021-10-12|9124|
+|1170799132807589889|alex_atty6|2019-09-08|2021-02-03|28238|
 |1114776769985277952|alex_atty06|2019-04-08|2019-09-06|169|
 |771089695279243264|alex_atty6|2018-07-09|2019-04-04|121|
 
@@ -87,8 +87,8 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|434435440|Andre_van_Delft|2014-04-05|2021-02-24|13|
-|131633337|AndreVanDelft|2013-02-02|2021-01-11|12414|
+|434435440|Andre_van_Delft|2011-12-11|2021-10-03|748|
+|131633337|AndreVanDelft|2013-02-02|2021-01-11|12415|
 
 ### Account display names
 
@@ -113,8 +113,8 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1423439483152834563|CaribbeanVirtu|2021-08-06|2021-09-13|31|
-|844434316943904768|bronzeagemantis|2017-03-22|2021-08-04|9108|
+|1423439483152834563|CaribbeanVirtu|2021-08-06|2021-10-06|39|
+|844434316943904768|bronzeagemantis|2017-03-22|2021-08-04|9115|
 
 ### Account display names
 
@@ -137,9 +137,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1429294466993573890|darthcaro|2021-08-22|2021-09-22|646|
+|1429294466993573890|darthcaro|2021-08-22|2021-10-12|1246|
 |1284917494671716352|DarthCarolina|2020-07-21|2020-07-21|1|
-|2349753061|disneycaroline|2014-06-09|2020-07-29|14473|
+|2349753061|disneycaroline|2014-06-09|2020-07-29|14482|
 |1025580350|carodisneys|2017-07-28|2019-04-26|6|
 |1025580350|disneycaroline|2015-10-02|2019-04-03|24|
 
@@ -147,7 +147,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Display names|
 |----------|-----------|
-|1429294466993573890|caro|
+|1429294466993573890|caro, caro#23, carolween 🎃|
 |1284917494671716352|Darth Carolina|
 |2349753061|SCAREoline👻, americaro 🇺🇸, bo turner🧜🏻‍♀️, carol webkinz, ᦓꫀꪀꪖꪻꪮ᥅ ꪖꪑ꠸ᦔꪖꪶꪖ, ℭ𝔥𝔯𝔦𝔰𝔱𝔪𝔞𝔰 ℭ𝔞𝔯𝔬𝔩🧜🏻‍♀️, 匚卂尺ㄖ, 匚卂尺ㄖ🐶🐱, 匚卂尺ㄖ💘, 匚卂尺ㄖ🦈, 匚卂尺ㄖ🦾, 匚卂尺ㄖ🧜🏻‍♀️, ꪑꫀ᥅ꪑꪖ꠸ᦔ, 𝐿𝒶 𝒮𝒾𝓇𝑒𝓃𝒾𝓉𝒶🧜🏻‍♀️, 𝒜𝓇𝒾𝑒𝓁🧜🏻‍♀️, 𝒫𝓇𝒾𝓃𝒸𝑒𝓈𝓈 𝒞𝒶𝓇𝑜 🧜🏻‍♀️, 𝒶𝓃𝒶𝓀𝒾𝓃’𝓈 𝓌𝒾𝒻𝑒, 𝒸𝑜𝓋𝒾𝒹 𝒸𝒶𝓇𝑜, 𝓁𝒶 𝓈𝒾𝓇𝑒𝓃𝒾𝓉𝒶, 𝓅𝒽𝒾𝓁𝑜𝒸𝓉𝑒𝓉𝑒𝓈, 𝔇𝔞𝔯𝔱𝔥 𝔓𝔩𝔞𝔤𝔲𝔢𝔦𝔰 𝔱𝔥𝔢 𝔚𝔦𝔰𝔢, 𝔡𝔞𝔯𝔱𝔥 𝔠𝔞𝔯𝔬, 𝔱𝔥𝔢 𝔏𝔬𝔯𝔡’𝔰 𝔠𝔥𝔦𝔭𝔰, 𝕔𝕠𝕣𝕒𝕝 𝕣𝕖𝕖𝕗 🧜🏻‍♀️, 𝕔𝕠𝕣𝕒𝕝 𝕣𝕖𝕖𝕗🧜🏻‍♀️, 𝕔𝕠𝕣𝕒𝕝 🧜🏻‍♀️, 𝕙𝕖𝕣𝕔 𝕪𝕠𝕦 𝕝𝕖𝕖𝕤, 𝕤𝕒𝕧𝕠𝕣𝕪 𝕔𝕒𝕣𝕠𝕝𝕚𝕟𝕖, 𝕯𝖆𝖗𝖙𝖍 𝕮𝖆𝖗𝖔, 𝖘𝖎𝖙𝖍 𝖑𝖔𝖗𝖉, 𝚌𝚊𝚛𝚘 𝚋𝚊𝚜𝚔𝚒𝚗 🐆, 𝚖𝚒𝚜𝚜 𝚜𝚔𝚢𝚠𝚊𝚕𝚔𝚎𝚛, 🧜🏻‍♀️|
 |1025580350|Caroline Smith, caroline, caroline smith, caroline🇨🇦, caroline🦈, follow @disneycaroline|
@@ -166,21 +166,23 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|815555060394553344|cathriebesq|2020-07-27|2021-01-21|12|
-|815555060394553344|ReplacementKate|2020-07-06|2020-09-19|8|
-|815555060394553344|c____brennan|2020-08-24|2020-08-24|1|
-|815555060394553344|JaneODoe5|2020-06-21|2020-06-21|9|
-|4858023813|FinTechEsq|2017-10-28|2019-10-11|29|
-|2161524618|BadhbhCatha|2015-01-03|2016-09-30|46|
+|815555060394553344|mrskbrennanesq|2020-12-09|2021-09-27|1369|
+|815555060394553344|c____brennan|2020-08-24|2021-05-11|468|
+|815555060394553344|cathriebesq|2020-07-27|2021-02-24|384|
+|815555060394553344|ReplacementKate|2020-07-05|2021-01-14|3059|
+|815555060394553344|JaneODoe5|2020-05-07|2020-07-05|371|
+|815555060394553344|BunchofDykes|2019-09-12|2019-09-12|1|
+|4858023813|FinTechEsq|2017-05-26|2019-10-12|1499|
+|2161524618|BadhbhCatha|2014-12-29|2017-02-12|199|
 |2161524618|GIdentityWatch|2016-07-06|2016-07-06|1|
 
 ### Account display names
 
 |Twitter ID|Display names|
 |----------|-----------|
-|815555060394553344|Cathy Brennan, Jane O'Doe, Replacement Kate, cathrie b., cathrie b. esq., esq., insert projection here|
-|4858023813|Catherine M. Brennan, Cathy Brennan|
-|2161524618|Badhbh Catha, Cathy Brennan, Gender Identity Watch|
+|815555060394553344|A Bunch of Dykes, Auntie Fah, Cathy, Cathy Brennan, Cathy Brennan’s Opinions, Harris/Biden 2020, Jane O'Doe, Mrs. Brennan, Replacement Kate, cathrie b., cathrie b. esq., cathy b., esq., everybody dies, i just talk to my girlfriend & complete strangers, insert projection here, is this google, it goes over your nose, lawyer, make radical feminism compassionate again, my mom calls me katie, see below|
+|4858023813|Catherine M. Brennan, Catherine M. Brennan 🧛🏾‍♂️🕷🎃💀👻, Cathy Brennan|
+|2161524618|Badhbh Catha, Cathy Brennan, Gender Identity Watch, 🐞cathy brennan🐞, 🔥cathy brennan 🔥|
 
 
 ## Golden Boy
@@ -196,7 +198,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1399810317719281666|SetteSpade7x70|2021-06-03|2021-09-25|90|
+|1399810317719281666|SetteSpade7x70|2021-06-03|2021-10-12|334|
 |1368964187729301511|K_PotterFanClub|2021-04-03|2021-09-18|1460|
 |1368964187729301511|ElDoradoLocator|2021-03-09|2021-07-28|2981|
 |1368964187729301511|SaltWaterBrah|2021-03-09|2021-04-24|1360|
@@ -204,9 +206,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |1266762396581978113|HopeHicksFanFic|2020-08-11|2020-12-04|754|
 |1266762396581978113|SpDoubleDouble|2020-05-30|2020-11-19|5107|
 |1232380841701126144|CoconutLaCroixD|2020-02-25|2020-05-29|3259|
-|1170566206287437825|GoldenBoy1776|2019-09-08|2019-12-06|2369|
+|1170566206287437825|GoldenBoy1776|2019-09-08|2019-12-06|2381|
 |1110291259539648514|PuerAureus27BC|2019-12-09|2020-02-24|1664|
-|849825430727041024|GoldenBoyyy__|2018-03-16|2019-08-05|73|
+|849825430727041024|GoldenBoyyy__|2018-03-16|2019-08-05|75|
 |849825430727041024|JoeyAmerica|2017-11-06|2019-02-19|79|
 
 ### Account display names
@@ -236,26 +238,27 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1397726836033941504|Baseddrugdealer|2021-07-04|2021-09-21|404|
-|1397726836033941504|BasedNewsNtwrk|2021-08-07|2021-09-06|167|
-|1397726836033941504|BasedNewsNtwork|2021-08-11|2021-08-18|7|
-|1397726836033941504|UncensoredHaley|2021-07-02|2021-07-09|6|
-|1281090666483683328|VivaLaHaley3|2020-07-09|2021-05-23|261|
-|1190548685148454913|pdxadamsfam|2019-11-06|2019-11-07|3|
-|1139967210959466496|teBernieSanders|2019-10-04|2019-10-14|3|
-|1139967210959466496|RealHaleyAdams1|2019-07-26|2019-09-16|6|
-|1137922989083594752|Hot_MessPdx|2019-11-10|2020-07-01|64|
-|785340397660753920|RealHaleyAdams|2018-09-25|2019-03-30|6|
+|1397726836033941504|Baseddrugdealer|2021-07-04|2021-09-28|802|
+|1397726836033941504|BasedNewsNtwrk|2021-08-07|2021-09-07|168|
+|1397726836033941504|BasedNewsNtwork|2021-08-08|2021-08-18|10|
+|1397726836033941504|UncensoredHaley|2021-07-02|2021-07-09|13|
+|1281090666483683328|VivaLaHaley3|2020-07-09|2021-05-26|4456|
+|1190548685148454913|pdxadamsfam|2019-11-02|2019-11-08|147|
+|1139967210959466496|teBernieSanders|2019-08-30|2019-10-22|537|
+|1139967210959466496|RealHaleyAdams1|2019-06-16|2019-09-20|273|
+|1137922989083594752|Hot_MessPdx|2019-11-08|2020-07-01|2306|
+|785340397660753920|RealHaleyAdams|2017-02-20|2019-05-19|321|
 |785340397660753920|Divas4Trump|2017-06-04|2018-07-28|34|
+|785340397660753920|wester_haley|2017-05-31|2017-05-31|1|
 
 ### Account display names
 
 |Twitter ID|Display names|
 |----------|-----------|
-|1397726836033941504|Aug 💀22nd 💀 Portland ☮️🕊️, Hal3y AdAWs, PnwDramaChannel 🧢 #TWC, STOP CHRISTIAN HATE, The Weird Conservative, The Weird Conservative 🧢, The Weird Conservative 🧢 #TWC, Tw!tter Support 🧢, Uncensored Haley Adams 🇺🇸, Viva La Drug Dealer, Viva La Fck Biden, Viva La Furiosa 💥💀🖤, Viva La Hails, Viva La Haley, Viva La Haley Lewis, Vote Joe Kent For Congress WA 🇺🇲💥💕, We 💀 The 💀 People, ❤️ Haley 🧘🏼‍♀️ Adams ❤️, 💀 Jane 💀 Doe 💀|
-|1281090666483683328|Viva 🐸 La 🐸 Haley 🐸, Viva 🐸 La 🐸 Holdtheline 🐸, Viva 💀 La 🔥 Haley 👩‍🦳, Viva 💀 La 🔥 Haley 👩‍🦳👾, Viva 💀 La 🔥 Judge 👩‍🦳, Viva🍇La💜Haley🐸, Viva🔥La🔥Buffy🧛🏻‍♀️, Viva🔥La🔥Haley, Viva🔥La🔥Haley🔥, Vïvä🍇Lä💜GräpeGäng🍇, 🍇Vïvä 🇮🇹 Lä 🇩🇪 Judge 👩‍⚖️🇺🇸, 🍇Vïvä 🇮🇹 Lä 🇩🇪 Stfu 🇺🇸|
-|1190548685148454913|👿 MeowPDXMedia 😈 610|
-|1139967210959466496|Haley Adams For Portland Mayor, Haley Adams Portlands Liberation/MAYOR2020, Luis Marquez Be Snitch’N, 👻 W!tch of the PNW 👻, 🔥 Haley Adams 🔥|
+|1397726836033941504|Aug 💀22nd 💀 Portland ☮️🕊️, Drama Channel 🧢 #TWC, Hal3y AdAWs, PnwDramaChannel 🧢 #TWC, STOP CHRISTIAN HATE, The Weird Conservative, The Weird Conservative 🧢, The Weird Conservative 🧢 #TWC, Tw!tter Support 🧢, Uncensored Haley Adams 🇺🇸, Viva La Drug Dealer, Viva La Fck Biden, Viva La Furiosa 💥💀🖤, Viva La Hails, Viva La Haley, Viva La Haley Lewis, Vote Joe Kent For Congress WA 🇺🇲💥💕, We 💀 The 💀 People, ❤️ Haley 🧘🏼‍♀️ Adams ❤️, 💀 Jane 💀 Doe 💀|
+|1281090666483683328|Viva 🐸 La 🐸 Haley 🐸, Viva 🐸 La 🐸 Holdtheline 🐸, Viva 💀 La 🔥 Haley 👩‍🦳, Viva 💀 La 🔥 Haley 👩‍🦳👾, Viva 💀 La 🔥 Judge 👩‍🦳, Viva🇺🇸La🇺🇸VOTE🇺🇸, Viva🌈La🌈Haley, Viva🍇La💜Haley🐸, Viva🍇La💜Vampire🧛🏻‍♀️, Viva🔥La🔥Buffy🧛🏻‍♀️, Viva🔥La🔥Haley, Viva🔥La🔥Haley🔥, Viva🔥La🔥TRUMP2020🇺🇸, Vïvä 🇮🇹 Lä 🇩🇪 Stfu 🇺🇸, Vïvä🍇Lä💜GräpeGäng🍇, 🍇Vïvä 🇮🇹 Lä 🇩🇪 AnarchistBeef 🇺🇸, 🍇Vïvä 🇮🇹 Lä 🇩🇪 Judge 👩‍⚖️🇺🇸, 🍇Vïvä 🇮🇹 Lä 🇩🇪 Stfu 🇺🇸, 🍇Vïvä 🇮🇹 Lä 🇩🇪 TEA ☕️🐸 🇺🇸, 🍇Vïvä 🇮🇹 Lä 🇩🇪 stfu 🇺🇸|
+|1190548685148454913|heeeeyleeeeeee Udemmz, 👿 MeowPDXMedia 😈, 👿 MeowPDXMedia 😈 610|
+|1139967210959466496|Bernie Sanders, Haley Adams, Haley Adams For Portland Mayor, Haley Adams Portlands Liberation/MAYOR2020, Haley Adams/PortlandsLiberation, Luis Marquez Be Snitch’N, 👻 W!tch of the PNW 👻, 👻W!tch of the PNW👻, 🔥 Haley Adams 🔥, 🔥 Haley Adams 🔥 Antifa4Trump, 🔥 Haley Adams 🔥PDXRebel, 🔥 Haley Adams 🔥PDXRebel/Ancap, 🙌🏼 Portland 4 TRUMP 🙌🏼|
 |1137922989083594752|Millennials 4 Trump Viva La Haley, Pdx Spilt the Tea 🍵, Viva La Haley, 🔥 Viva La Haley 🔥|
 |785340397660753920|#HimTooMovement, Divas4Trump 🇺🇸, FreeTommyRobinson🇬🇧, Haley Adams, MakeBlondesGreatAgain🇺🇸, Portland For Freedom|
 
@@ -273,15 +276,15 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1435645561265434631|ReturnOfTheFleX|2021-09-10|2021-09-27|23|
-|211025537|Malcolm_fleX48|2012-04-13|2021-07-10|3939|
+|1435645561265434631|ReturnOfTheFleX|2021-09-10|2021-10-11|78|
+|211025537|Malcolm_fleX48|2012-04-13|2021-07-10|4288|
 
 ### Account display names
 
 |Twitter ID|Display names|
 |----------|-----------|
 |1435645561265434631|Deus FleX, Deus Flex - www.flexyoursuccess.com, Deus Flex Machina, Deus Flex Machina - flexyoursucces.com, Deus Flex Machina - flexyoursuccess.com|
-|211025537|@Malcolm Fle✘ is on GAB., ACB F͓̽l͓̽e͓̽X, ANTIFAU Supersoldier: Malcolm Fle⚔️, ANTIFAUCIST Supersoldier: Malcolm Fle⚔️, AntiFaucist Leader Malcolm Fle⚔️, Antifastani Security Warlord - Malcolm FleX, Ballot Harvester M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e̽X, BlackTaro Kujo - Stand: WorldStar Platinum, BroTaro Kujo, Dept of Public Health-Select: Malcolm Flex, Director of Public Health-Select: Malcolm FleX, Dr. Fle✘ Anti-PhD. Pulmonology & Biomechanics, Flexamillion PegaCIS, GloTaro Kujo - Stand: WorldStar Platinum, Gulag Fitness & Training Advisor: Malcolm FleX, Gulag Inmate Health & Wellbeing Czar: Malcolm FleX, Hostile Power M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Hostile RU Czar M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Lord FLEXanor, Lord FLEXanor (& Antonio Brown Stan Acct), Lord FLEXanor The Lifting Sin of Pride, Lord FLEXcanor, Lord Flexcanor The Lifting Sin of Pride, Lord Flexcanor: The Lifting Sin of Pride, M*lc*lm Fl*✘, Magnificent Bastard, Magnificent OUT ✌️🏾, Magnificent 🅱astard, Malcolm FleX, Malcolm FleX - Stand Name: 「CNN Distancing」, Malcolm FleX - Stand Name: 「COVIDIOT Specialist」, Malcolm FleX - Stand Name: 「Chinese Virus」, Malcolm FleX - Stand Name: 「Down With The Sicknes」, Malcolm FleX - Stand Name: 「Get Behind Me Wu Mao」, Malcolm FleX - Stand Name: 「Get Behind Me WuMao」, Malcolm FleX - Stand Name: 「Incel Wartime Officer」, Malcolm FleX - Stand Name: 「Kung Flu Fighting」, Malcolm FleX - Stand Name: 「Lol WHO?」, Malcolm FleX - Stand Name: 「Massie Dindu Nuffin」, Malcolm FleX - Stand Name: 「Say No To Econobros」, Malcolm FleX - Stand Name: 「Slush Fund Specialist」, Malcolm FleX - Stand Name: 「Social Distance」, Malcolm FleX - Stand Name: 「Social Distancing」, Malcolm FleX - Stand Name: 「This is the Breakdown」, Malcolm FleX - Stand Name: 「Thought Contagion」, Malcolm FleX - Stand Name: 「Trumpbucks Wen?」, Malcolm FleX - Stand Name: 「Wartime Malco」, Malcolm FleX - Stand Name: 「Where my Trump Bucks?」, Malcolm FleX - Stand Name: 『Flynn Dindu Nuffin』, Malcolm FleX - Stand Name: 『Got a model for that?』, Malcolm FleX - Stand Name: 『Kim Jong Yo Stan Acct』, Malcolm FleX 🇺🇲, Malcolm FleX 🟧, Malcolm FleXeon 🇺🇲, Malcolm FleX🇺🇸, Malcolm Fle⚔️, Malcolm Fle⚔️ PhD, Ballot Testing Specialist, Malcolm Fle⚔️ PhD, Critical FleX Theorist, Malcolm Fle⚔️ PhD, Critical FleX Theory, Malcolm Fle✘, Malcolm Fle✘ is on GAB. Same name., Malcolm Fle✘mas🎄🎁🎅🏿📿, Merry Fle✘mas To All🎄🎅🏿👑❄️, Multicultural Neanderthal Scribe Malcolm Fle✘, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e̽X, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X (Notable Excep), M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X (Unrattleable), M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 💪🏾🎃🤳🏾, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 🛡️👨🏿‍🔬📿, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 🛡️🧬📿, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽Xes Under God, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽🗙, Natural Gas Science Consultant M. Flex, Postmaster Gen: M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Postmaster M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X Gen., Professor Fle✘ of the N—Men 🧬, Social Distancing Malcolm, The Dark Lord of The Cis, Thorkell The Swole, Truinanaashibata F͓̽l͓̽e͓̽X, Warlord Battlemaster Supreme- Malcolm FleX, ¡Despacito! F͓̽l͓̽e͓̽X, 𝕸𝖆𝖑𝖈𝖔𝖑𝖒 𝕱𝖑𝖊𝖃 📵|
+|211025537|@Malcolm Fle✘ is on GAB., ACB F͓̽l͓̽e͓̽X, ANTIFAU Supersoldier: Malcolm Fle⚔️, ANTIFAUCIST Supersoldier: Malcolm Fle⚔️, AntiFaucist Leader Malcolm Fle⚔️, Antifastani Security Warlord - Malcolm FleX, Ballot Harvester M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e̽X, BlackTaro Kujo - Stand: WorldStar Platinum, BroTaro Kujo, Dept of Public Health-Select: Malcolm Flex, Director of Public Health-Select: Malcolm FleX, Dr. Fle✘ Anti-PhD. Pulmonology & Biomechanics, Flexamillion PegaCIS, GloTaro Kujo - Stand: WorldStar Platinum, Gulag Fitness & Training Advisor: Malcolm FleX, Gulag Inmate Health & Wellbeing Czar: Malcolm FleX, Hostile Power M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Hostile RU Czar M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Lord FLEXanor, Lord FLEXanor (& Antonio Brown Stan Acct), Lord FLEXanor The Lifting Sin of Pride, Lord FLEXcanor, Lord Flexcanor The Lifting Sin of Pride, Lord Flexcanor: The Lifting Sin of Pride, M*lc*lm Fl*✘, Magnificent Bastard, Magnificent OUT ✌️🏾, Magnificent 🅱astard, Malcolm FleX, Malcolm FleX - Stand Name: 「CNN Distancing」, Malcolm FleX - Stand Name: 「COVIDIOT Specialist」, Malcolm FleX - Stand Name: 「Chinese Virus」, Malcolm FleX - Stand Name: 「Down With The Sicknes」, Malcolm FleX - Stand Name: 「Get Behind Me Wu Mao」, Malcolm FleX - Stand Name: 「Get Behind Me WuMao」, Malcolm FleX - Stand Name: 「Incel Wartime Officer」, Malcolm FleX - Stand Name: 「Kung Flu Fighting」, Malcolm FleX - Stand Name: 「Lol WHO?」, Malcolm FleX - Stand Name: 「Massie Dindu Nuffin」, Malcolm FleX - Stand Name: 「Say No To Econobros」, Malcolm FleX - Stand Name: 「Slush Fund Specialist」, Malcolm FleX - Stand Name: 「Social Distance」, Malcolm FleX - Stand Name: 「Social Distancing」, Malcolm FleX - Stand Name: 「This is the Breakdown」, Malcolm FleX - Stand Name: 「Thought Contagion」, Malcolm FleX - Stand Name: 「Trumpbucks Wen?」, Malcolm FleX - Stand Name: 「Wartime Malco」, Malcolm FleX - Stand Name: 「Where my Trump Bucks?」, Malcolm FleX - Stand Name: 『Flynn Dindu Nuffin』, Malcolm FleX - Stand Name: 『Got a model for that?』, Malcolm FleX - Stand Name: 『Kim Jong Yo Stan Acct』, Malcolm FleX 🇺🇲, Malcolm FleX 🟧, Malcolm FleXeon 🇺🇲, Malcolm FleX🇺🇸, Malcolm Fle⚔️, Malcolm Fle⚔️ PhD, Ballot Testing Specialist, Malcolm Fle⚔️ PhD, Critical FleX Theorist, Malcolm Fle⚔️ PhD, Critical FleX Theory, Malcolm Fle✘, Malcolm Fle✘ is on GAB. Same name., Malcolm Fle✘mas🎄🎁, Malcolm Fle✘mas🎄🎁🎅🏿📿, Merry Fle✘mas To All🎄🎅🏿👑❄️, Multicultural Neanderthal Scribe Malcolm Fle✘, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e̽X, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X (Notable Excep), M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X (Unrattleable), M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 💪🏾🎃🤳🏾, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 🛡️👨🏿‍🔬📿, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X 🛡️🧬📿, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽Xes Under God, M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽🗙, Natural Gas Science Consultant M. Flex, Postmaster Gen: M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X, Postmaster M͓̽a͓̽l͓̽c͓̽o͓̽l͓̽m͓̽ ͓̽F͓̽l͓̽e͓̽X Gen., Professor Fle✘ of the N—Men 🧬, Social Distancing Malcolm, The Dark Lord of The Cis, Thorkell The Swole, Truinanaashibata F͓̽l͓̽e͓̽X, Warlord Battlemaster Supreme- Malcolm FleX, ¡Despacito! F͓̽l͓̽e͓̽X, 𝕸𝖆𝖑𝖈𝖔𝖑𝖒 𝕱𝖑𝖊𝖃 📵|
 
 
 ## Kevin Dolan
@@ -297,9 +300,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1025615726294384640|jcbonthedl|2018-08-09|2020-12-04|13999|
+|1025615726294384640|jcbonthedl|2018-08-09|2020-12-04|14006|
 |1025615726294384640|KMDontheUH|2018-09-27|2019-08-01|18|
-|1025410166483832833|extradeadjcb|2020-08-26|2021-09-28|4838|
+|1025410166483832833|extradeadjcb|2020-08-26|2021-10-11|5111|
 
 ### Account display names
 
@@ -311,8 +314,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 ## Lauren Elizabeth Brown
 
-* Active as: [iHonk4Morons](https://twitter.com/iHonk4Morons) ([1448777171493924865](https://twitter.com/intent/user?user_id=1448777171493924865))
-* Suspended as: [LMAOComeAtMeBro](https://twitter.com/LMAOComeAtMeBro) (1445530195734122503), [YoYoBitchHeyHo](https://twitter.com/YoYoBitchHeyHo) (1436435237702148124), [ISpyABitchLol](https://twitter.com/ISpyABitchLol) (1438915352415686665), [LHatesYouALot](https://twitter.com/LHatesYouALot) (1384284222521630721), [LiveFromLauren](https://twitter.com/LiveFromLauren) (1344674818751229953), [SomeBitchIKnow2](https://twitter.com/SomeBitchIKnow2) (1335016762207821824), [SomeBitchIKnew](https://twitter.com/SomeBitchIKnew) (1326436991278444545), [SomeSneakyB](https://twitter.com/SomeSneakyB) (1257601209591980033), [SomeBitchIKnow](https://twitter.com/SomeBitchIKnow) (444301028)
+* Suspended as: [iHonk4Morons](https://twitter.com/iHonk4Morons) (1448777171493924865), [LMAOComeAtMeBro](https://twitter.com/LMAOComeAtMeBro) (1445530195734122503), [YoYoBitchHeyHo](https://twitter.com/YoYoBitchHeyHo) (1436435237702148124), [ISpyABitchLol](https://twitter.com/ISpyABitchLol) (1438915352415686665), [LHatesYouALot](https://twitter.com/LHatesYouALot) (1384284222521630721), [LiveFromLauren](https://twitter.com/LiveFromLauren) (1344674818751229953), [SomeBitchIKnow2](https://twitter.com/SomeBitchIKnow2) (1335016762207821824), [SomeBitchIKnew](https://twitter.com/SomeBitchIKnew) (1326436991278444545), [SomeSneakyB](https://twitter.com/SomeSneakyB) (1257601209591980033), [SomeBitchIKnow](https://twitter.com/SomeBitchIKnow) (444301028)
 
 ### Context
 
@@ -322,10 +324,11 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1448777171493924865|iHonk4Morons|2021-10-15|2021-10-15|0|
-|1445530195734122503|LMAOComeAtMeBro|2021-10-06|2021-10-08|2|
+|1449165247508631553|ReportMeIfUrGay|2021-10-16|2021-10-18|26|
+|1448777171493924865|iHonk4Morons|2021-10-14|2021-10-15|11|
+|1445530195734122503|LMAOComeAtMeBro|2021-10-05|2021-10-14|145|
 |1438915352415686665|ISpyABitchLol|2021-09-18|2021-10-05|568|
-|1436435237702148124|YoYoBitchHeyHo|2021-09-10|2021-09-13|33|
+|1436435237702148124|YoYoBitchHeyHo|2021-09-10|2021-09-13|230|
 |1384284222521630721|LHatesYouALot|2021-04-20|2021-08-18|5823|
 |1344674818751229953|LiveFromLauren|2021-01-01|2021-01-04|472|
 |1344674818751229953|SadieSaysWhatUp|2020-12-31|2021-01-01|36|
@@ -333,12 +336,12 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |1326436991278444545|SomeBitchIKnew|2020-11-18|2020-12-04|2372|
 |1326436991278444545|ShaladyYa|2020-11-18|2020-11-25|177|
 |1257601209591980033|SomeSneakyB|2020-07-16|2020-10-18|175|
-|444301028|SomeBitchIKnow|2018-10-05|2020-11-10|7918|
+|444301028|SomeBitchIKnow|2018-10-05|2020-11-10|7921|
 
 ### Account display names
-
 |Twitter ID|Display names|
 |----------|-----------|
+|1449165247508631553|Brad|
 |1448777171493924865|L 🏴|
 |1445530195734122503|L 🏴|
 |1438915352415686665|L|
@@ -364,10 +367,10 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|908567118664237057|NRxPenguin|2017-10-22|2021-09-24|17253|
+|908567118664237057|NRxPenguin|2017-10-22|2021-10-13|19182|
 |3585410540|MaoyuuZeta|2015-09-16|2016-01-04|75|
-|422641831|Burzenland|2016-03-08|2017-05-10|72|
-|26871837|MikeAnissimov|2013-05-15|2015-09-14|1260|
+|422641831|Burzenland|2016-03-08|2017-05-10|73|
+|26871837|MikeAnissimov|2013-05-15|2015-09-14|1275|
 
 ### Account display names
 
@@ -392,17 +395,20 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1440731448885989377|RebuffTheMuff|2021-09-23|2021-09-23|1|
-|1337136973560078337|VaginaDeclina|2021-06-20|2021-07-29|2|
-|1337136973560078337|gay_novulvaspls|2021-04-30|2021-05-19|8|
-|1337136973560078337|TheHungryHirudo|2020-12-16|2020-12-16|1|
+|1440731448885989377|RebuffTheMuff|2021-09-22|2021-10-03|263|
+|1337136973560078337|VaginaDeclina|2021-03-30|2021-09-20|2657|
+|1337136973560078337|StonewallSlayer|2021-06-01|2021-06-16|7|
+|1337136973560078337|gay_novulvaspls|2021-03-24|2021-05-26|2472|
+|1337136973560078337|wedeserveCOVID|2021-03-04|2021-03-04|1|
+|1337136973560078337|sexisimmutable|2020-12-28|2021-01-12|2|
+|1337136973560078337|TheHungryHirudo|2020-12-11|2020-12-21|30|
 
 ### Account display names
 
 |Twitter ID|Display names|
 |----------|-----------|
 |1440731448885989377|Gay Mossad-Loving Muff Rebuffer|
-|1337136973560078337|Gay Mossad-Loving Vagina-Decliner, The Plural of Platypus, The Terven Translator|
+|1337136973560078337|Gay Mossad Loving Vagina Hater, Gay Mossad-Loving Vagina-Avoider, Gay Mossad-Loving Vagina-Decliner, Gay Mossad-Loving Vagina-Hater, The Plural of Platypus, The Terven Translator, The Translator|
 
 
 ## Nima Cheraghi
@@ -418,13 +424,13 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1344715389960392707|AnchorStill|2021-08-02|2021-09-25|958|
+|1344715389960392707|AnchorStill|2021-08-02|2021-10-06|1013|
 |1344715389960392707|CyrvsMajor|2021-03-19|2021-06-11|73|
 |1344715389960392707|KIeosAphthiton|2021-01-02|2021-06-08|892|
-|1271101733016649738|AltemFritz|2020-06-14|2020-12-31|1187|
+|1271101733016649738|AltemFritz|2020-06-14|2020-12-31|1192|
 |1271101733016649738|AlteFriedrich|2020-06-11|2020-06-13|44|
 |1270365041871802368|Nimmland|2020-06-09|2020-06-11|256|
-|2153902885|Nimerland|2020-04-19|2020-06-04|1240|
+|2153902885|Nimerland|2020-04-19|2020-06-04|1241|
 |2153902885|Bladezedits|2018-02-13|2020-04-19|444|
 
 ### Account display names
@@ -450,8 +456,8 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|2463954908|revprez|2014-12-16|2021-09-13|38910|
-|2216313186|prezcannady|2015-10-06|2019-11-16|7532|
+|2463954908|revprez|2014-12-16|2021-10-06|38950|
+|2216313186|prezcannady|2015-10-06|2019-11-16|7536|
 |2216313186|opencorrelate|2015-10-11|2015-10-11|1|
 
 ### Account display names
@@ -475,9 +481,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1424522590811529218|hyperboreanterf|2021-08-15|2021-09-28|2902|
+|1424522590811529218|hyperboreanterf|2021-08-15|2021-10-05|3071|
 |1424522590811529218|glutenfreevolk|2021-08-09|2021-08-15|89|
-|1171642051567476736|terfdavidicke|2020-12-13|2021-08-04|16657|
+|1171642051567476736|terfdavidicke|2020-12-13|2021-08-04|16659|
 |837838898571128832|glutenfreevolk|2018-04-27|2018-11-04|6|
 
 ### Account display names
@@ -499,23 +505,24 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Tweet by Alex Kaplan](https://twitter.com/AlKapDC/status/1408245291577454595)
 
 ### All suspected accounts
+
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1405205968267333638|Real_VinceJames|2021-09-27|2021-10-01|14|
-|1405205968267333638|RealMr_Veracity|2021-09-24|2021-09-27|7|
-|1405205968267333638|RealVinJames|2021-09-15|2021-09-24|44|
-|1405205968267333638|Mr_Veracity_|2021-09-03|2021-09-15|43|
-|1405205968267333638|MisterVeracity|2021-08-25|2021-09-04|81|
-|1405205968267333638|MrVeracity_|2021-08-17|2021-08-24|65|
-|1405205968267333638|JamesElefent|2021-07-16|2021-08-17|41|
-|1405205968267333638|elefent_james|2021-07-06|2021-08-12|209|
+|1405205968267333638|Mr_Veracity_|2021-06-30|2021-10-18|184|
+|1405205968267333638|Real_VinceJames|2021-09-27|2021-10-07|37|
+|1405205968267333638|RealMr_Veracity|2021-09-24|2021-09-27|10|
+|1405205968267333638|RealVinJames|2021-09-15|2021-09-24|64|
+|1405205968267333638|MisterVeracity|2021-08-25|2021-09-04|89|
+|1405205968267333638|MrVeracity_|2021-08-17|2021-08-24|70|
+|1405205968267333638|JamesElefent|2021-07-16|2021-08-17|42|
+|1405205968267333638|elefent_james|2021-07-06|2021-08-12|213|
 |1405205968267333638|MrElefent|2021-07-20|2021-07-31|54|
-|1405205968267333638|mr_elefent|2021-06-23|2021-07-06|40|
+|1405205968267333638|mr_elefent|2021-06-23|2021-07-06|41|
 |1405205968267333638|ElefentMr|2021-06-20|2021-07-01|130|
 |1405205968267333638|ElefentMan|2021-06-16|2021-06-20|24|
 |1304530918716190721|ElefentJames|2021-03-07|2021-06-16|78|
 |1304530918716190721|MrElefent|2021-05-23|2021-05-25|25|
-|1304530918716190721|the_elefent|2021-04-29|2021-05-23|138|
+|1304530918716190721|the_elefent|2020-09-24|2021-05-23|139|
 |1304530918716190721|TheElefentGamer|2021-04-21|2021-04-28|63|
 |1304530918716190721|GamerElefent|2021-01-08|2021-04-20|354|
 |1304530918716190721|ElefentGamer|2021-03-24|2021-03-31|38|
@@ -541,7 +548,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |Twitter ID|Display names|
 |----------|-----------|
 |1405205968267333638|Mr James, Mr Vincent James, Vince James|
-|1304530918716190721|Da Elefante’, Data Respecter, Elefant Man, Elefant Respectet, Mister James, Mr Elefantes, Mr James, Mr Vincent James, Mr. James, PunishedEl Yo dat elefant, Yo dat smellefant, YoooDatElefent|
+|1304530918716190721|Da Elefante’, Data Respecter, Elefant Man, Elefant Respecter, Elephant Respecter, HeyThatElephant, Mister James, Mr Elefantes, Mr James, Mr Vincent James, Mr. James, PunishedElefant, Red, V. James, Yo Dat Elefent, Yo dat elefant, Yo dat smellefant, YoooDatElefent|
 |986373612956336129|Vincent James|
 
 
@@ -558,8 +565,8 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 |Twitter ID|Screen name|First seen|Last seen|Tweets archived|
 |----------|-----------|----------|---------|---------------|
-|1245591829690478593|iamhomosexuaI|2020-05-05|2021-08-08|162|
-|1245591829690478593|UtahValleyDaddy|2020-04-30|2021-07-22|559|
+|1245591829690478593|iamhomosexuaI|2020-04-04|2021-08-08|195|
+|1245591829690478593|UtahValleyDaddy|2020-04-30|2021-07-22|577|
 |1245591829690478593|NiasDiad|2020-04-03|2021-06-08|9509|
 |1245591829690478593|ElMioCid3|2020-04-03|2020-04-10|48|
 |1199749637256531968|acalltoarm|2019-11-29|2020-02-06|1114|
