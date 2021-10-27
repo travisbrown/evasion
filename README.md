@@ -28,6 +28,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 * [Alex Atty](#alex-atty)
 * [André van Delft️](#andré-van-delft)
+* [Ben Peterson](#ben-peterson)
 * [Bronze Age Pervert](#bronze-age-pervert)
 * [Caroline Foster](#caroline-foster)
 * [Cathy Brennan](#cathy-brennan)
@@ -96,6 +97,40 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |----------|-----------|
 |434435440|Andre_van_Delft|
 |131633337|André van Delft, André van Delft مسيح, André van Delftمسيحي, André van Delft️ ⭐️⭐️⭐, André van Delft️ 🍌🍌🍌, Kraken Elect André van Delft️ 🍌🍌🍌, Kraken-Elect André van Delft️ 🍌🍌🍌|
+
+
+## Ben Peterson
+
+* Active as: [IbnDeseret](https://twitter.com/IbnDeseret) ([1415550610158456839](https://twitter.com/intent/user?user_id=1415550610158456839)), [DeseretN4ti0nal](https://twitter.com/DeseretN4ti0nal) ([1408904981894291456](https://twitter.com/intent/user?user_id=1408904981894291456))
+* Suspended as: [DeseretN4tional](https://twitter.com/DeseretN4tional) (3819921554), [DeseretNational](https://twitter.com/DeseretNational) (1093378528395984897), [DeseretNati0nal](https://twitter.com/DeseretNati0nal) (1336851919965478912)
+
+### Context
+
+* [Language.Exchange profile](http://archive.today/2021.09.01-063707/https://pt.language.exchange/friend/mbenpeterson)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1415550610158456839|IbnDeseret|2021-08-11|2021-10-16|141|
+|1415550610158456839|error07482|2021-07-27|2021-08-11|22|
+|1408904981894291456|DeseretN4ti0nal|2021-06-26|2021-07-26|784|
+|1336851919965478912|DeseretNati0nal|2020-12-15|2020-12-16|20|
+|1336851919965478912|JarediteNationl|2020-12-10|2020-12-15|249|
+|1093378528395984897|DeseretNational|2020-04-20|2020-12-04|5547|
+|1093378528395984897|m_ben_peterson|2020-02-10|2020-05-02|444|
+|3819921554|DeseretN4tional|2020-12-28|2021-06-24|2175|
+|3819921554|Deser3tNational|2021-01-19|2021-03-03|1258|
+|3819921554|47463l890|2020-12-27|2021-01-19|57|
+|3819921554|mbenpeterson1|2017-09-02|2020-12-27|28|
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1415550610158456839|Error, Ibn Deseret|
+|1408904981894291456|Ibn Deseret, Resurrected, Resurrected Account|
+|1336851919965478912|Shule, ⓘ Shule, 𐐔𐐯𐑅𐐨𐑉𐐯𐐻 𐐤𐐰𐑇𐐲𐑌𐐲𐑊|
+|1093378528395984897|Ben, Ben Peterson, Benjamin, HOLD THE LINE, JFS, James Brown, Joseph F. Smith, King Benjamin, Not Eric Ciaramella, One Deseret National, One Deseret National 🛡️, 𐐺𐐯𐑌, 𐐺𐐯𐑌𐐾𐐰𐑋𐐮𐑌|
+|3819921554|1847 Commission, 47586950, Ben Peterson, Deseret Footsoldier, Deseret National, Doot Nootal, ___DEZNAT___SUPER___SOLDIER___, ¹⁸⁴⁷ Deseret National, ☂️, ⚠️, ⚠️ 1️⃣8️⃣4️⃣7️⃣ WILL COMMENCE AGAIN 🔄, 𐐔𐐯𐑅𐐨𐑉𐐯𐐻 𐐤𐐰𐑇𐐲𐑌𐐲𐑊|
 
 
 ## Bronze Age Pervert
