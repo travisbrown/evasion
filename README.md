@@ -26,6 +26,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 ## Table of contents
 
+* [0k_ultra](#0k_ultra)
 * [Alex Atty](#alex-atty)
 * [André van Delft️](#andré-van-delft)
 * [Ben Peterson](#ben-peterson)
@@ -46,6 +47,31 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Zach Martin](#zach-martin)
 
 # Accounts
+
+## 0k_ultra
+
+* Active as: [0knaomi](https://twitter.com/0knaomi) ([701819334742700032](https://twitter.com/intent/user?user_id=701819334742700032))
+* Suspended as: [0K_ultra](https://twitter.com/0K_ultra) (0K_ultra)
+
+### Context
+
+* [Screen shots](https://twitter.com/ArsonAtDennys/status/1458142286923984897)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|701819334742700032|0knaomi|2021-03-16|2021-11-03|492|
+|448991059|0K_ultra|2018-02-17|2021-06-17|3141|
+|448991059|0Knaomi|2018-02-14|2018-07-24|43|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|701819334742700032|Little OKNAOMI, New_OKɴᴀᴏᴍɪ (heiress ᵒᶠ ᴏᴋᵘˡᵗʳᵃ ᵖʳᵒʲᵉᶜᵗ), New_OKɴᴀᴏᴍɪ (ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᴏᴋᵘˡᵗʳᵃ ᵖʳᵒʲᵉᶜᵗ), OKNAOMI, OK—ɴᴀᴏᴍɪ (), OK—ɴᴀᴏᴍɪ (ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᴏᴋᵘˡᵗʳᵃ ᵖʳᵒʲᵉᶜᵗ)|
+|448991059|OK-ɴᴀᴏᴍɪ (ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᴏᴋᵘˡᵗʳᵃ ᵖʳᵒʲᵉᶜᵗ), OK-ɴᴀᴏᴍɪ (ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᴏᴋᵤₗₜᵣₐ ᵖʳᵒʲᵉᶜᵗ), Oκ-ULTRA XP (ˢᵘᶜᶜᵉˢˢᵒʳ ᵒᶠ ᴏᴋᵘˡᵗʳᵃ ᵖʳᵒʲᵉᶜᵗ), OκULTRA XP🧿|
+
 
 ## Alex Atty
 
