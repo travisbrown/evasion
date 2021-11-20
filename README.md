@@ -40,6 +40,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [~~Lauren Elizabeth Brown~~](#lauren-elizabeth-brown)
 * [Michael Anissimov](#michael-anissimov)
 * [Muff Rebuffer](#muff-rebuffer)
+* [Nick Fuentes](#nick-fuentes)
 * [Nima Cheraghi](#nima-cheraghi)
 * [Prez Cannady](#prez-cannady)
 * [Radfem Hitler](#radfem-hitler)
@@ -476,6 +477,32 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |----------|-----------|
 |1440731448885989377|Gay Mossad-Loving Muff Rebuffer|
 |1337136973560078337|Gay Mossad Loving Vagina Hater, Gay Mossad-Loving Vagina-Avoider, Gay Mossad-Loving Vagina-Decliner, Gay Mossad-Loving Vagina-Hater, The Plural of Platypus, The Terven Translator, The Translator|
+
+
+## Nick Fuentes
+
+* Active as: [cheeser3000](https://twitter.com/cheeser3000) ([1455158989432528897](https://twitter.com/intent/user?user_id=1455158989432528897))
+* Suspended as: [raper6000](https://twitter.com/raper6000) (1415209907893178373), [NickJFuentes](https://twitter.com/NickJFuentes) (2442888666)
+
+### Context
+
+* [Twitter thread](https://twitter.com/JorgeOrweII/status/1461899367330328579)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1455158989432528897|cheeser3000|2021-11-02|2021-11-06|31|
+|1415209907893178373|raper6000|2021-07-14|2021-10-29|1740|
+|2442888666|NickJFuentes|2016-12-07|2021-07-09|14738|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1455158989432528897|big cheese|
+|1415209907893178373|Punished Incel, Punished Zoomer, punished incel, real incel|
+|2442888666|Nicholas J Fuentes, Nicholas J. Fuentes, Nicholas J. Fuentes 🇺🇸|
 
 
 ## Nima Cheraghi
