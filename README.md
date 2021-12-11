@@ -29,22 +29,22 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [0k_ultra](#0k_ultra)
 * [Alex Atty](#alex-atty)
 * [André van Delft️](#andré-van-delft)
-* [Ben Peterson](#ben-peterson)
+* [~~Ben Peterson~~](#ben-peterson)
 * [Bronze Age Pervert](#bronze-age-pervert)
-* [Caroline Foster](#caroline-foster)
+* [~~Caroline Foster~~](#caroline-foster)
 * [Cathy Brennan](#cathy-brennan)
 * [Golden Boy](#golden-boy)
 * [Haley Adams](#haley-adams)
-* [Kellen Battles](#kellen-battles)
+* [~~Kellen Battles~~](#kellen-battles)
 * [Kevin Dolan](#kevin-dolan)
 * [~~Lauren Elizabeth Brown~~](#lauren-elizabeth-brown)
-* [Michael Anissimov](#michael-anissimov)
+* [~~Michael Anissimov~~](#michael-anissimov)
 * [Muff Rebuffer](#muff-rebuffer)
-* [Nick Fuentes](#nick-fuentes)
+* [~~Nick Fuentes~~](#nick-fuentes)
 * [Nima Cheraghi](#nima-cheraghi)
 * [Prez Cannady](#prez-cannady)
 * [Radfem Hitler](#radfem-hitler)
-* [Vincent James](#vincent-james)
+* [~~Vincent James~~](#vincent-james)
 * [Zach Martin](#zach-martin)
 
 # Accounts
@@ -126,10 +126,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |131633337|André van Delft, André van Delft مسيح, André van Delftمسيحي, André van Delft️ ⭐️⭐️⭐, André van Delft️ 🍌🍌🍌, Kraken Elect André van Delft️ 🍌🍌🍌, Kraken-Elect André van Delft️ 🍌🍌🍌|
 
 
-## Ben Peterson
+## ~~Ben Peterson~~
 
-* Active as: [IbnDeseret](https://twitter.com/IbnDeseret) ([1415550610158456839](https://twitter.com/intent/user?user_id=1415550610158456839)), [DeseretN4ti0nal](https://twitter.com/DeseretN4ti0nal) ([1408904981894291456](https://twitter.com/intent/user?user_id=1408904981894291456))
-* Suspended as: [DeseretN4tional](https://twitter.com/DeseretN4tional) (3819921554), [DeseretNational](https://twitter.com/DeseretNational) (1093378528395984897), [DeseretNati0nal](https://twitter.com/DeseretNati0nal) (1336851919965478912)
+* Suspended as: [IbnDeseret](https://twitter.com/IbnDeseret) (1415550610158456839), [DeseretN4ti0nal](https://twitter.com/DeseretN4ti0nal) (1408904981894291456), [DeseretN4tional](https://twitter.com/DeseretN4tional) (3819921554), [DeseretNational](https://twitter.com/DeseretNational) (1093378528395984897), [DeseretNati0nal](https://twitter.com/DeseretNati0nal) (1336851919965478912)
 
 ### Context
 
@@ -188,9 +187,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |2209980606|Bronze Age Pervert|
 
 
-## Caroline Foster
+## ~~Caroline Foster~~
 
-* Active as: [darthcaro](https://twitter.com/darthcaro) ([1429294466993573890](https://twitter.com/intent/user?user_id=1429294466993573890))
+* Last active as: [darthcaro](https://twitter.com/darthcaro) ([1429294466993573890](https://twitter.com/intent/user?user_id=1429294466993573890); currently deactivated)
 * Suspended as: [disneycaroline](https://twitter.com/disneycaroline) (2349753061), [carodisneys](https://twitter.com/carodisneys) (1025580350)
 
 ### Context
@@ -294,7 +293,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 ## Haley Adams
 
-* Active as: [Baseddrugdealer](https://twitter.com/Baseddrugdealer) ([1397726836033941504](https://twitter.com/intent/user?user_id=1397726836033941504)), [Hot_MessPdx](https://twitter.com/Hot_MessPdx) ([1137922989083594752](https://twitter.com/intent/user?user_id=1137922989083594752))
+* Active as: [SailorBased](https://twitter.com/SailorBased) ([1397726836033941504](https://twitter.com/intent/user?user_id=1397726836033941504)), [Hot_MessPdx](https://twitter.com/Hot_MessPdx) ([1137922989083594752](https://twitter.com/intent/user?user_id=1137922989083594752))
 * Suspended as: [VivaLaHaley3](https://twitter.com/VivaLaHaley3) (1281090666483683328), [pdxadamsfam](https://twitter.com/pdxadamsfam) (1190548685148454913), [teBernieSanders](https://twitter.com/teBernieSanders) (1139967210959466496), [RealHaleyAdams](https://twitter.com/RealHaleyAdams) (785340397660753920)
 
 ### Context
@@ -331,10 +330,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |785340397660753920|#HimTooMovement, Divas4Trump 🇺🇸, FreeTommyRobinson🇬🇧, Haley Adams, MakeBlondesGreatAgain🇺🇸, Portland For Freedom|
 
 
-## Kellen Battles
+## ~~Kellen Battles~~
 
-* Active as: [ReturnOfTheFleX](https://twitter.com/ReturnOfTheFleX) ([1435645561265434631](https://twitter.com/intent/user?user_id=1435645561265434631))
-* Suspended as: [Malcolm_fleX48](https://twitter.com/Malcolm_fleX48) (211025537)
+* Suspended as: [ReturnOfTheFleX](https://twitter.com/ReturnOfTheFleX) (1435645561265434631), [Malcolm_fleX48](https://twitter.com/Malcolm_fleX48) (211025537)
 
 ### Context
 
@@ -380,7 +378,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |1025410166483832833|Bennett's Phylactery, 🅱️ennett's Phylactery|
 
 
-## Lauren Elizabeth Brown
+## ~~Lauren Elizabeth Brown~~
 
 * Suspended as: [iHonk4Morons](https://twitter.com/iHonk4Morons) (1448777171493924865), [LMAOComeAtMeBro](https://twitter.com/LMAOComeAtMeBro) (1445530195734122503), [YoYoBitchHeyHo](https://twitter.com/YoYoBitchHeyHo) (1436435237702148124), [ISpyABitchLol](https://twitter.com/ISpyABitchLol) (1438915352415686665), [LHatesYouALot](https://twitter.com/LHatesYouALot) (1384284222521630721), [LiveFromLauren](https://twitter.com/LiveFromLauren) (1344674818751229953), [SomeBitchIKnow2](https://twitter.com/SomeBitchIKnow2) (1335016762207821824), [SomeBitchIKnew](https://twitter.com/SomeBitchIKnew) (1326436991278444545), [SomeSneakyB](https://twitter.com/SomeSneakyB) (1257601209591980033), [SomeBitchIKnow](https://twitter.com/SomeBitchIKnow) (444301028)
 
@@ -422,10 +420,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |444301028|Greg, Greg Floyd, L, L 👁️, L 🤺, LB, Lauren, Thomas|
 
 
-## Michael Anissimov
+## ~~Michael Anissimov~~
 
-* Active as: [NRxPenguin](https://twitter.com/NRxPenguin) ([908567118664237057](https://twitter.com/intent/user?user_id=908567118664237057))
-* Suspended as: [Burzenland](https://twitter.com/Burzenland) (422641831), [MikeAnissimov](https://twitter.com/MikeAnissimov) (26871837)
+* Suspended as: [NRxPenguin](https://twitter.com/NRxPenguin) (908567118664237057), [Burzenland](https://twitter.com/Burzenland) (422641831), [MikeAnissimov](https://twitter.com/MikeAnissimov) (26871837)
 
 ### Context
 
@@ -479,10 +476,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |1337136973560078337|Gay Mossad Loving Vagina Hater, Gay Mossad-Loving Vagina-Avoider, Gay Mossad-Loving Vagina-Decliner, Gay Mossad-Loving Vagina-Hater, The Plural of Platypus, The Terven Translator, The Translator|
 
 
-## Nick Fuentes
+## ~~Nick Fuentes~~
 
-* Active as: [cheeser3000](https://twitter.com/cheeser3000) ([1455158989432528897](https://twitter.com/intent/user?user_id=1455158989432528897))
-* Suspended as: [raper6000](https://twitter.com/raper6000) (1415209907893178373), [NickJFuentes](https://twitter.com/NickJFuentes) (2442888666)
+* Suspended as: [cheeser3000](https://twitter.com/cheeser3000) (1455158989432528897), [raper6000](https://twitter.com/raper6000) (1415209907893178373), [NickJFuentes](https://twitter.com/NickJFuentes) (2442888666)
 
 ### Context
 
@@ -591,10 +587,9 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |837838898571128832|Holly 👑|
 
 
-## Vincent James
+## ~~Vincent James~~
 
-* Active as: [Mr_Veracity_](https://twitter.com/Mr_Veracity_) ([1405205968267333638](https://twitter.com/intent/user?user_id=1405205968267333638))
-* Suspended as: [ElefentJames](https://twitter.com/ElefentJames) (1304530918716190721), [RealVinceJames](https://twitter.com/RealVinceJames) (986373612956336129)
+* Suspended as: [Mr_Veracity_](https://twitter.com/Mr_Veracity_) (1405205968267333638), [ElefentJames](https://twitter.com/ElefentJames) (1304530918716190721), [RealVinceJames](https://twitter.com/RealVinceJames) (986373612956336129)
 
 ### Context
 
@@ -649,7 +644,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 
 ## Zach Martin
 
-* Active as: [lamhomosexual](https://twitter.com/lamhomosexual) ([1245591829690478593](https://twitter.com/intent/user?user_id=1245591829690478593))
+* Active as: [ZorgPosting](https://twitter.com/ZorgPosting) ([1245591829690478593](https://twitter.com/intent/user?user_id=1245591829690478593))
 * Suspended as: [acalltoarm](https://twitter.com/acalltoarm) (1199749637256531968), [WeeklyHoss](https://twitter.com/WeeklyHoss) (814167999288471552), [BigHossACS](https://twitter.com/BigHossACS) (1081159706)
 
 ### Context
