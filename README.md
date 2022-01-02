@@ -33,6 +33,7 @@ opening an issue to suggest new material for inclusion is better than opening a 
 * [Bronze Age Pervert](#bronze-age-pervert)
 * [~~Caroline Foster~~](#caroline-foster)
 * [Cathy Brennan](#cathy-brennan)
+* [Chance Lunceford](#chance-lunceford)
 * [Golden Boy](#golden-boy)
 * [Haley Adams](#haley-adams)
 * [~~Kellen Battles~~](#kellen-battles)
@@ -248,6 +249,32 @@ opening an issue to suggest new material for inclusion is better than opening a 
 |815555060394553344|A Bunch of Dykes, A Bunch of Dykes 🔥, A Bunch of Dykes 🔥💣, Auntie Fah, Cathy, Cathy Brennan, Cathy Brennan’s Opinions, Harris/Biden 2020, Jane O'Doe, Mrs. Brennan, Replacement Kate, cathrie b., cathrie b. esq., cathy b., esq., everybody dies, i just talk to my girlfriend & complete strangers, insert projection here, is this google, it goes over your nose, lawyer, make radical feminism compassionate again, my mom calls me katie, see below|
 |4858023813|Catherine M. Brennan, Catherine M. Brennan 🧛🏾‍♂️🕷🎃💀👻, Cathy Brennan|
 |2161524618|Badhbh Catha, Cathy Brennan, Gender Identity Watch, 🐞cathy brennan🐞, 🔥cathy brennan 🔥|
+
+
+## Chance Lunceford
+
+* Active as: [TheUncommonist](https://twitter.com/TheUncommonist) ([1098395224294907904](https://twitter.com/intent/user?user_id=1098395224294907904))
+* Suspended as: [LogoCentrifuge](https://twitter.com/LogoCentrifuge) (1050346861549109248)
+
+### Context
+
+* [LinkedIn profile](https://www.linkedin.com/in/chance-lunceford-9642ba19b)
+
+### All suspected accounts
+
+|Twitter ID|Screen name|First seen|Last seen|Tweets archived|
+|----------|-----------|----------|---------|---------------|
+|1098395224294907904|TheUncommonist|2019-03-08|2021-12-28|8438|
+|1098395224294907904|TheLivingLogos|2020-02-22|2021-01-13|12163|
+|1098395224294907904|DeliverMeFire|2020-02-22|2020-02-22|5|
+|1050346861549109248|LogoCentrifuge|2018-10-11|2020-02-21|8191|
+
+### Account display names
+
+|Twitter ID|Display names|
+|----------|-----------|
+|1098395224294907904|Chance - AnarchoChance - Lunceford, Chance - Artful Subtlety - Lunceford, Chance - Dream Speaker - Lunceford, Chance - Flanking Thoughts - Lunceford, Chance - Grumpy Asshole - Lunceford, Chance - Hotep Flanking Thoughts - Lunceford, Chance - Illuminated Marginalia - Lunceford, Chance - Infinite Fractal Observers - Lunceford, Chance - Underground Greatness - Lunceford, Chance Lunceford, Chance Lunceford - Genius For Hire, Chance Lunceford -Genius For Hire-, Chance Lunceford Is Uncommon, Chance Lunceford PhG -Philosophiae Genius-, Chance the Eponymous, Maybe You're Logocentrifugal, The Great Prometheus, The Mighty Logocentrifugal Reincarnate, The Prophet Chance Lunceford Is Uncommon, The Reincarnation of Logocentrifugal, The Reincarnation of Logocentrifugal - The Prophet|
+|1050346861549109248|Chance Lunceford Is Logocentrifugal, Logocentrifugal|
 
 
 ## Golden Boy
